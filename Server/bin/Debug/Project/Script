@@ -1,0 +1,5 @@
+<Script>
+<DotNetFrameworkScript Name="CMS" Preference="CSharp"  GenerateInMemory="True" ExecuteMode="Dll" >
+
+</DotNetFrameworkScript>
+</Script>

@@ -1,0 +1,2080 @@
+11/6/2016 7:58:48 PM
+No source for Driver
+System.Xml.XmlException: 'Name' is a duplicate attribute name. Line 2, position 23.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.AttributeDuplCheck()
+   at System.Xml.XmlTextReaderImpl.ParseAttributes()
+   at System.Xml.XmlTextReaderImpl.ParseElement()
+   at System.Xml.XmlTextReaderImpl.ParseElementContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.Linq.XContainer.ReadContentFrom(XmlReader r)
+   at System.Xml.Linq.XContainer.ReadContentFrom(XmlReader r, LoadOptions o)
+   at System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   at System.Xml.Linq.XDocument.Load(String uri, LoadOptions options)
+   at System.Xml.Linq.XDocument.Load(String uri)
+   at Irlovan.LocalInterface.Driver.LoadDriverConfig(String path) in C:\Users\irlovan\Irlovan\Develop\WebArc\LocalInterface\Driver.cs:line 141
+11/6/2016 8:00:03 PM
+Can't find resource for recorder
+11/6/2016 8:00:04 PM
+ScriptError:System.ArgumentNullException: Value cannot be null.
+Parameter name: type
+   at System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   at System.Activator.CreateInstance(Type type, Object[] args)
+   at Irlovan.Script.DotNetFrameworkScript.RunScripts(String[] scripts)
+
+11/6/2016 8:02:33 PM
+No source for DriverOPCClient
+11/6/2016 8:02:34 PM
+Can't find resource for recorder
+11/6/2016 8:02:34 PM
+ScriptError:System.ArgumentNullException: Value cannot be null.
+Parameter name: type
+   at System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   at System.Activator.CreateInstance(Type type, Object[] args)
+   at Irlovan.Script.DotNetFrameworkScript.RunScripts(String[] scripts)
+
+11/6/2016 8:04:00 PM
+No source for DriverOPCClient
+11/6/2016 8:04:00 PM
+Can't find resource for recorder
+11/6/2016 8:05:05 PM
+ScriptError:System.ArgumentNullException: Value cannot be null.
+Parameter name: type
+   at System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   at System.Activator.CreateInstance(Type type, Object[] args)
+   at Irlovan.Script.DotNetFrameworkScript.RunScripts(String[] scripts)
+
+11/6/2016 8:05:24 PM
+No source for DriverOPCClient
+11/6/2016 8:05:24 PM
+Can't find resource for recorder
+11/6/2016 8:05:40 PM
+No source for DriverOPCClient
+11/6/2016 8:05:40 PM
+Can't find resource for recorder
+11/6/2016 8:05:41 PM
+ScriptError:System.ArgumentNullException: Value cannot be null.
+Parameter name: type
+   at System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   at System.Activator.CreateInstance(Type type, Object[] args)
+   at Irlovan.Script.DotNetFrameworkScript.RunScripts(String[] scripts)
+
+11/6/2016 8:06:00 PM
+Handler Not Found:Alarm
+11/6/2016 8:07:23 PM
+No source for DriverOPCClient
+11/6/2016 8:07:23 PM
+Can't find resource for recorder
+11/6/2016 8:07:24 PM
+ScriptError:System.ArgumentNullException: Value cannot be null.
+Parameter name: type
+   at System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   at System.Activator.CreateInstance(Type type, Object[] args)
+   at Irlovan.Script.DotNetFrameworkScript.RunScripts(String[] scripts)
+
+11/6/2016 8:15:10 PM
+No source for DriverOPCClient
+11/6/2016 8:15:10 PM
+Can't find resource for recorder
+11/6/2016 8:15:10 PM
+ScriptError:System.ArgumentNullException: Value cannot be null.
+Parameter name: type
+   at System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   at System.Activator.CreateInstance(Type type, Object[] args)
+   at Irlovan.Script.DotNetFrameworkScript.RunScripts(String[] scripts)
+
+11/6/2016 8:15:57 PM
+No source for DriverOPCClient
+11/6/2016 8:15:57 PM
+Can't find resource for recorder
+11/6/2016 8:15:57 PM
+ScriptError:System.ArgumentNullException: Value cannot be null.
+Parameter name: type
+   at System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   at System.Activator.CreateInstance(Type type, Object[] args)
+   at Irlovan.Script.DotNetFrameworkScript.RunScripts(String[] scripts)
+
+11/6/2016 8:17:26 PM
+No source for DriverOPCClient
+11/6/2016 8:17:26 PM
+Can't find resource for recorder
+11/6/2016 8:17:26 PM
+ScriptError:System.ArgumentNullException: Value cannot be null.
+Parameter name: type
+   at System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   at System.Activator.CreateInstance(Type type, Object[] args)
+   at Irlovan.Script.DotNetFrameworkScript.RunScripts(String[] scripts)
+
+11/6/2016 8:20:04 PM
+No source for DriverOPCClient
+11/6/2016 8:20:05 PM
+Can't find resource for recorder
+11/6/2016 8:20:05 PM
+ScriptError:System.ArgumentNullException: Value cannot be null.
+Parameter name: type
+   at System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   at System.Activator.CreateInstance(Type type, Object[] args)
+   at Irlovan.Script.DotNetFrameworkScript.RunScripts(String[] scripts)
+
+11/6/2016 8:22:45 PM
+No source for DriverOPCClient
+11/6/2016 8:22:45 PM
+Can't find resource for recorder
+11/6/2016 8:22:45 PM
+ScriptError:System.ArgumentNullException: Value cannot be null.
+Parameter name: type
+   at System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   at System.Activator.CreateInstance(Type type, Object[] args)
+   at Irlovan.Script.DotNetFrameworkScript.RunScripts(String[] scripts)
+
+11/6/2016 8:22:48 PM
+Handler Not Found:Alarm
+11/6/2016 8:23:19 PM
+No source for DriverOPCClient
+11/6/2016 8:23:19 PM
+Can't find resource for recorder
+11/6/2016 8:23:19 PM
+ScriptError:System.ArgumentNullException: Value cannot be null.
+Parameter name: type
+   at System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   at System.Activator.CreateInstance(Type type, Object[] args)
+   at Irlovan.Script.DotNetFrameworkScript.RunScripts(String[] scripts)
+
+11/6/2016 8:25:19 PM
+No source for DriverOPCClient
+11/6/2016 8:25:19 PM
+Can't find resource for recorder
+11/6/2016 8:25:20 PM
+ScriptError:System.ArgumentNullException: Value cannot be null.
+Parameter name: type
+   at System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   at System.Activator.CreateInstance(Type type, Object[] args)
+   at Irlovan.Script.DotNetFrameworkScript.RunScripts(String[] scripts)
+
+11/6/2016 8:28:38 PM
+No source for DriverOPCClient
+11/6/2016 8:28:38 PM
+Can't find resource for recorder
+11/6/2016 8:28:39 PM
+ScriptError:System.ArgumentNullException: Value cannot be null.
+Parameter name: type
+   at System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   at System.Activator.CreateInstance(Type type, Object[] args)
+   at Irlovan.Script.DotNetFrameworkScript.RunScripts(String[] scripts)
+
+11/6/2016 8:29:25 PM
+No source for DriverOPCClient
+11/6/2016 8:29:25 PM
+Can't find resource for recorder
+11/6/2016 8:29:26 PM
+ScriptError:System.ArgumentNullException: Value cannot be null.
+Parameter name: type
+   at System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   at System.Activator.CreateInstance(Type type, Object[] args)
+   at Irlovan.Script.DotNetFrameworkScript.RunScripts(String[] scripts)
+
+11/6/2016 8:30:30 PM
+No source for DriverOPCClient
+11/6/2016 8:30:30 PM
+Can't find resource for recorder
+11/6/2016 8:30:31 PM
+ScriptError:System.ArgumentNullException: Value cannot be null.
+Parameter name: type
+   at System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   at System.Activator.CreateInstance(Type type, Object[] args)
+   at Irlovan.Script.DotNetFrameworkScript.RunScripts(String[] scripts)
+
+11/6/2016 8:30:34 PM
+Handler Not Found:Alarm
+11/6/2016 8:34:44 PM
+No source for DriverOPCClient
+11/6/2016 8:34:44 PM
+Can't find resource for recorder
+11/6/2016 8:34:44 PM
+ScriptError:System.ArgumentNullException: Value cannot be null.
+Parameter name: type
+   at System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   at System.Activator.CreateInstance(Type type, Object[] args)
+   at Irlovan.Script.DotNetFrameworkScript.RunScripts(String[] scripts)
+
+11/6/2016 8:35:54 PM
+No source for DriverOPCClient
+11/6/2016 8:35:54 PM
+Can't find resource for recorder
+11/6/2016 8:35:55 PM
+ScriptError:System.ArgumentNullException: Value cannot be null.
+Parameter name: type
+   at System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   at System.Activator.CreateInstance(Type type, Object[] args)
+   at Irlovan.Script.DotNetFrameworkScript.RunScripts(String[] scripts)
+
+11/6/2016 8:40:33 PM
+No source for DriverOPCClient
+11/6/2016 8:40:33 PM
+Can't find resource for recorder
+11/6/2016 8:40:35 PM
+ScriptError:System.ArgumentNullException: Value cannot be null.
+Parameter name: type
+   at System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   at System.Activator.CreateInstance(Type type, Object[] args)
+   at Irlovan.Script.DotNetFrameworkScript.RunScripts(String[] scripts)
+
+11/6/2016 8:45:10 PM
+No source for DriverOPCClient
+11/6/2016 8:45:10 PM
+Can't find resource for recorder
+11/6/2016 8:45:10 PM
+ScriptError:System.ArgumentNullException: Value cannot be null.
+Parameter name: type
+   at System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   at System.Activator.CreateInstance(Type type, Object[] args)
+   at Irlovan.Script.DotNetFrameworkScript.RunScripts(String[] scripts)
+
+11/6/2016 8:47:06 PM
+No source for DriverOPCClient
+11/6/2016 8:47:06 PM
+Can't find resource for recorder
+11/6/2016 8:47:07 PM
+ScriptError:System.ArgumentNullException: Value cannot be null.
+Parameter name: type
+   at System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   at System.Activator.CreateInstance(Type type, Object[] args)
+   at Irlovan.Script.DotNetFrameworkScript.RunScripts(String[] scripts)
+
+11/6/2016 8:50:52 PM
+No source for DriverOPCClient
+11/6/2016 8:50:52 PM
+Can't find resource for recorder
+11/6/2016 8:50:52 PM
+ScriptError:System.ArgumentNullException: Value cannot be null.
+Parameter name: type
+   at System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   at System.Activator.CreateInstance(Type type, Object[] args)
+   at Irlovan.Script.DotNetFrameworkScript.RunScripts(String[] scripts)
+
+11/6/2016 8:52:17 PM
+No source for DriverOPCClient
+11/6/2016 8:52:17 PM
+Can't find resource for recorder
+11/6/2016 8:52:18 PM
+ScriptError:System.ArgumentNullException: Value cannot be null.
+Parameter name: type
+   at System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   at System.Activator.CreateInstance(Type type, Object[] args)
+   at Irlovan.Script.DotNetFrameworkScript.RunScripts(String[] scripts)
+
+11/6/2016 8:52:49 PM
+No source for DriverOPCClient
+11/6/2016 8:52:49 PM
+Can't find resource for recorder
+11/6/2016 8:52:50 PM
+ScriptError:System.ArgumentNullException: Value cannot be null.
+Parameter name: type
+   at System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   at System.Activator.CreateInstance(Type type, Object[] args)
+   at Irlovan.Script.DotNetFrameworkScript.RunScripts(String[] scripts)
+
+11/6/2016 8:54:50 PM
+No source for DriverOPCClient
+11/6/2016 8:54:50 PM
+Can't find resource for recorder
+11/6/2016 8:54:51 PM
+ScriptError:System.ArgumentNullException: Value cannot be null.
+Parameter name: type
+   at System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   at System.Activator.CreateInstance(Type type, Object[] args)
+   at Irlovan.Script.DotNetFrameworkScript.RunScripts(String[] scripts)
+
+11/6/2016 9:47:00 PM
+No source for DriverOPCClient
+11/6/2016 9:47:00 PM
+Can't find resource for recorder
+11/6/2016 9:47:01 PM
+ScriptError:System.ArgumentNullException: Value cannot be null.
+Parameter name: type
+   at System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   at System.Activator.CreateInstance(Type type, Object[] args)
+   at Irlovan.Script.DotNetFrameworkScript.RunScripts(String[] scripts)
+
+11/6/2016 9:54:53 PM
+No source for DriverOPCClient
+11/6/2016 9:54:53 PM
+Can't find resource for recorder
+11/6/2016 9:54:54 PM
+ScriptError:System.ArgumentNullException: Value cannot be null.
+Parameter name: type
+   at System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   at System.Activator.CreateInstance(Type type, Object[] args)
+   at Irlovan.Script.DotNetFrameworkScript.RunScripts(String[] scripts)
+
+11/6/2016 9:56:48 PM
+No source for DriverOPCClient
+11/6/2016 9:56:49 PM
+Can't find resource for recorder
+11/6/2016 9:56:49 PM
+ScriptError:System.ArgumentNullException: Value cannot be null.
+Parameter name: type
+   at System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   at System.Activator.CreateInstance(Type type, Object[] args)
+   at Irlovan.Script.DotNetFrameworkScript.RunScripts(String[] scripts)
+
+11/6/2016 10:06:20 PM
+No source for DriverOPCClient
+11/6/2016 10:06:20 PM
+Can't find resource for recorder
+11/6/2016 10:06:20 PM
+ScriptError:System.ArgumentNullException: Value cannot be null.
+Parameter name: type
+   at System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   at System.Activator.CreateInstance(Type type, Object[] args)
+   at Irlovan.Script.DotNetFrameworkScript.RunScripts(String[] scripts)
+
+11/6/2016 10:17:12 PM
+No source for DriverOPCClient
+11/6/2016 10:17:13 PM
+Can't find resource for recorder
+11/6/2016 10:17:13 PM
+ScriptError:System.ArgumentNullException: Value cannot be null.
+Parameter name: type
+   at System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   at System.Activator.CreateInstance(Type type, Object[] args)
+   at Irlovan.Script.DotNetFrameworkScript.RunScripts(String[] scripts)
+
+11/6/2016 10:31:51 PM
+No source for DriverOPCClient
+11/6/2016 10:31:51 PM
+Can't find resource for recorder
+11/6/2016 10:31:52 PM
+ScriptError:System.ArgumentNullException: Value cannot be null.
+Parameter name: type
+   at System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   at System.Activator.CreateInstance(Type type, Object[] args)
+   at Irlovan.Script.DotNetFrameworkScript.RunScripts(String[] scripts)
+
+11/6/2016 10:32:14 PM
+No source for DriverOPCClient
+11/6/2016 10:32:14 PM
+Can't find resource for recorder
+11/6/2016 10:32:15 PM
+ScriptError:System.ArgumentNullException: Value cannot be null.
+Parameter name: type
+   at System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   at System.Activator.CreateInstance(Type type, Object[] args)
+   at Irlovan.Script.DotNetFrameworkScript.RunScripts(String[] scripts)
+
+11/6/2016 10:36:57 PM
+No source for DriverOPCClient
+11/6/2016 10:36:57 PM
+Can't find resource for recorder
+11/6/2016 10:36:57 PM
+ScriptError:System.ArgumentNullException: Value cannot be null.
+Parameter name: type
+   at System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   at System.Activator.CreateInstance(Type type, Object[] args)
+   at Irlovan.Script.DotNetFrameworkScript.RunScripts(String[] scripts)
+
+11/6/2016 10:37:03 PM
+No source for DriverOPCClient
+11/6/2016 10:37:03 PM
+Can't find resource for recorder
+11/6/2016 10:37:04 PM
+ScriptError:System.ArgumentNullException: Value cannot be null.
+Parameter name: type
+   at System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   at System.Activator.CreateInstance(Type type, Object[] args)
+   at Irlovan.Script.DotNetFrameworkScript.RunScripts(String[] scripts)
+
+11/6/2016 10:41:49 PM
+Can't find resource for recorder
+11/6/2016 10:41:49 PM
+ScriptError:System.ArgumentNullException: Value cannot be null.
+Parameter name: type
+   at System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   at System.Activator.CreateInstance(Type type, Object[] args)
+   at Irlovan.Script.DotNetFrameworkScript.RunScripts(String[] scripts)
+
+11/6/2016 10:41:49 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:41:57 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:42:03 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:42:09 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:42:15 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:42:21 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:42:27 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:42:33 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:42:39 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:42:45 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:42:51 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:42:57 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:43:03 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:43:09 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:43:15 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:43:21 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:43:27 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:43:33 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:43:39 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:43:45 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:43:51 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:43:57 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:44:03 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:44:09 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:44:15 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:44:21 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:44:27 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:44:33 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:44:39 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:44:45 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:44:51 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:44:57 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:45:03 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:45:09 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:45:15 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:45:21 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:45:27 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:45:33 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:45:39 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:45:45 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:45:52 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:45:58 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:46:04 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:46:10 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:46:16 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:46:22 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:46:28 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:46:34 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:46:40 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:46:46 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:46:52 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:46:58 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:47:04 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:47:10 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:47:16 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:47:22 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:47:28 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:47:34 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:47:40 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:47:46 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:47:52 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:47:58 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:48:04 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:48:10 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:48:16 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:48:22 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:48:28 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:48:34 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:48:40 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:48:46 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:48:52 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:48:58 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:49:04 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:49:10 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:49:16 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:49:22 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:49:28 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:49:34 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:49:40 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:49:46 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:49:52 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:49:58 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:50:04 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:50:10 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:50:16 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:50:22 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:50:28 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:50:34 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:50:40 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:50:46 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:50:52 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:50:58 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:51:04 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:51:10 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:51:16 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:51:22 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:51:28 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:51:34 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:51:40 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:51:46 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:51:52 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:51:58 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:52:04 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:52:10 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:52:16 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:52:22 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:52:28 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:52:34 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:52:40 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:52:46 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:52:52 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:52:58 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:53:04 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:53:10 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:53:16 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:53:22 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:53:28 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:53:34 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:53:40 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:53:46 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:53:52 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:53:59 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:54:05 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:54:11 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:54:17 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:54:23 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:54:29 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:54:35 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:54:41 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:54:47 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:54:53 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:54:59 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:55:05 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:55:11 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:55:17 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:55:23 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:55:29 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:55:35 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:55:41 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:55:47 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:55:53 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:55:59 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:56:05 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:56:11 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:56:17 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:56:23 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:56:29 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:56:35 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:56:41 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:56:47 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:56:53 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:56:59 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:57:05 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:57:11 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:57:17 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:57:23 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:57:29 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:57:35 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:57:41 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:57:47 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:57:53 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:57:59 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:58:05 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:58:11 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:58:17 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:58:23 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:58:29 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:58:35 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:58:41 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:58:47 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:58:53 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:58:59 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:59:05 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:59:11 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:59:17 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:59:23 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:59:29 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:59:35 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:59:41 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:59:47 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:59:53 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 10:59:59 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:00:05 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:00:11 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:00:17 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:00:23 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:00:29 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:00:35 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:00:41 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:00:47 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:00:53 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:00:59 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:01:05 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:01:11 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:01:17 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:01:23 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:01:29 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:01:35 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:01:41 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:01:47 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:01:53 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:01:59 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:02:06 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:02:12 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:02:18 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:02:24 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:02:30 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:02:36 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:02:42 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:02:48 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:02:54 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:03:00 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:03:06 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:03:12 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:03:18 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:03:24 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:03:30 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:03:36 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:03:42 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:03:48 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:03:54 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:04:00 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:04:06 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:04:12 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:04:18 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:04:24 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:04:30 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:04:36 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:04:42 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:04:48 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:04:54 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:05:00 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:05:06 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:05:12 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:05:18 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:05:24 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:05:30 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:05:36 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:05:42 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:05:48 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:05:54 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:06:00 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:06:06 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:06:12 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:06:18 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:06:24 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:06:30 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:06:36 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:06:42 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:06:48 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:06:54 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:07:00 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:07:06 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:07:12 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:07:18 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:07:24 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:07:30 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:07:36 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:07:42 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:07:48 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:07:54 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:08:00 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:08:06 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:08:12 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:08:18 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:08:24 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:08:30 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:08:36 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:08:42 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:08:48 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:08:54 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:09:01 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:09:07 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:09:13 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:09:19 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:09:25 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:09:31 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:09:37 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:09:43 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:09:49 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:09:55 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:10:01 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:10:07 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:10:13 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:10:19 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:10:25 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:10:31 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:10:37 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:10:43 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:10:49 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:10:55 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:11:01 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:11:07 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:11:13 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:11:19 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:11:25 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:11:31 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:11:37 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:11:43 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:11:49 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:11:55 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:12:01 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:12:07 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:12:13 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:12:19 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:12:25 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:12:31 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:12:37 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:12:43 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:12:49 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:12:55 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:13:01 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:13:07 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:13:13 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:13:19 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:13:25 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:13:31 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:13:37 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:13:43 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:13:49 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:13:55 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:14:01 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:14:07 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:14:13 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:14:19 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:14:25 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:14:31 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:14:37 PM
+OPC:DriverConnectFail
+System.Runtime.InteropServices.COMException (0x800401F3): Invalid class string (Exception from HRESULT: 0x800401F3 (CO_E_CLASSSTRING))
+   at OPCAutomation.IOPCAutoServer.Connect(String ProgID, Object Node)
+   at Irlovan.Driver.OPCClient.Connect()
+11/6/2016 11:15:44 PM
+Can't find resource for recorder
+11/6/2016 11:15:44 PM
+ScriptError:System.ArgumentNullException: Value cannot be null.
+Parameter name: type
+   at System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   at System.Activator.CreateInstance(Type type, Object[] args)
+   at Irlovan.Script.DotNetFrameworkScript.RunScripts(String[] scripts)
+
+11/6/2016 11:21:33 PM
+Can't find resource for recorder
+11/6/2016 11:21:34 PM
+ScriptError:System.ArgumentNullException: Value cannot be null.
+Parameter name: type
+   at System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   at System.Activator.CreateInstance(Type type, Object[] args)
+   at Irlovan.Script.DotNetFrameworkScript.RunScripts(String[] scripts)
+
+11/6/2016 11:23:28 PM
+Can't find resource for recorder
+11/6/2016 11:23:29 PM
+ScriptError:System.ArgumentNullException: Value cannot be null.
+Parameter name: type
+   at System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   at System.Activator.CreateInstance(Type type, Object[] args)
+   at Irlovan.Script.DotNetFrameworkScript.RunScripts(String[] scripts)
+
+11/6/2016 11:37:03 PM
+Can't find resource for recorder
+11/6/2016 11:37:04 PM
+ScriptError:System.ArgumentNullException: Value cannot be null.
+Parameter name: type
+   at System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   at System.Activator.CreateInstance(Type type, Object[] args)
+   at Irlovan.Script.DotNetFrameworkScript.RunScripts(String[] scripts)
+
+11/6/2016 11:38:48 PM
+Can't find resource for recorder
+11/6/2016 11:38:48 PM
+ScriptError:System.ArgumentNullException: Value cannot be null.
+Parameter name: type
+   at System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   at System.Activator.CreateInstance(Type type, Object[] args)
+   at Irlovan.Script.DotNetFrameworkScript.RunScripts(String[] scripts)
+

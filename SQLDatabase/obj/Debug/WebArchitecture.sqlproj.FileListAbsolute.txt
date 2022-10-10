@@ -1,0 +1,78 @@
+E:\WebArchitecture\EventDatabase\bin\Debug\WebArchitecture.dacpac
+E:\WebArchitecture\EventDatabase\bin\Debug\WebArchitectureDatabase.dll
+E:\WebArchitecture\EventDatabase\bin\Debug\WebArchitectureDatabase.pdb
+E:\WebArchitecture\EventDatabase\obj\Debug\WebArchitectureDatabase.dll
+E:\WebArchitecture\EventDatabase\obj\Debug\WebArchitectureDatabase.pdb
+E:\WebArchitecture\SQLDatabase\bin\Debug\WebArchitecture.dacpac
+E:\WebArchitecture\SQLDatabase\bin\Debug\WebArchitectureDatabase.dll
+E:\WebArchitecture\SQLDatabase\bin\Debug\WebArchitectureDatabase.pdb
+E:\WebArchitecture\SQLDatabase\obj\Debug\WebArchitectureDatabase.dll
+E:\WebArchitecture\SQLDatabase\obj\Debug\WebArchitectureDatabase.pdb
+C:\WebArchitecture\SQLDatabase\bin\Debug\WebArchitecture.dacpac
+C:\WebArchitecture\SQLDatabase\bin\Debug\WebArchitectureDatabase.dll
+C:\WebArchitecture\SQLDatabase\bin\Debug\WebArchitectureDatabase.pdb
+C:\WebArchitecture\SQLDatabase\obj\Debug\WebArchitectureDatabase.dll
+C:\WebArchitecture\SQLDatabase\obj\Debug\WebArchitectureDatabase.pdb
+C:\WebArchitecture\SQLDatabase\obj\Debug\Model.xml
+C:\WebArchitecture\SQLDatabase\obj\Debug\refactor.xml
+C:\WebArchitecture\SQLDatabase\obj\Debug\postdeploy.sql
+C:\WebArchitecture\SQLDatabase\obj\Debug\predeploy.sql
+C:\Irlovan\MySoftware\WebArchitecture\SQLDatabase\bin\Debug\WebArchitecture.dacpac
+C:\Irlovan\MySoftware\WebArchitecture\SQLDatabase\bin\Debug\WebArchitectureDatabase.dll
+C:\Irlovan\MySoftware\WebArchitecture\SQLDatabase\bin\Debug\WebArchitectureDatabase.pdb
+C:\Irlovan\MySoftware\WebArchitecture\SQLDatabase\obj\Debug\WebArchitectureDatabase.dll
+C:\Irlovan\MySoftware\WebArchitecture\SQLDatabase\obj\Debug\WebArchitectureDatabase.pdb
+C:\Irlovan\Wine\WebArchitecture\SQLDatabase\bin\Debug\WebArchitecture.dacpac
+C:\Irlovan\Wine\WebArchitecture\SQLDatabase\bin\Debug\WebArchitectureDatabase.dll
+C:\Irlovan\Wine\WebArchitecture\SQLDatabase\bin\Debug\WebArchitectureDatabase.pdb
+C:\Irlovan\Wine\WebArchitecture\SQLDatabase\obj\Debug\WebArchitectureDatabase.dll
+C:\Irlovan\Wine\WebArchitecture\SQLDatabase\obj\Debug\WebArchitectureDatabase.pdb
+C:\Irlovan\Wine\WebArchitecture\SQLDatabase\obj\Debug\Model.xml
+C:\Irlovan\Wine\WebArchitecture\SQLDatabase\obj\Debug\refactor.xml
+C:\Irlovan\Wine\WebArchitecture\SQLDatabase\obj\Debug\postdeploy.sql
+C:\Irlovan\Wine\WebArchitecture\SQLDatabase\obj\Debug\predeploy.sql
+D:\Irlovan\Wine\WebArchitecture\SQLDatabase\bin\Debug\WebArchitecture.dacpac
+D:\Irlovan\Wine\WebArchitecture\SQLDatabase\bin\Debug\WebArchitectureDatabase.dll
+D:\Irlovan\Wine\WebArchitecture\SQLDatabase\bin\Debug\WebArchitectureDatabase.pdb
+D:\Irlovan\Wine\WebArchitecture\SQLDatabase\obj\Debug\WebArchitectureDatabase.dll
+D:\Irlovan\Wine\WebArchitecture\SQLDatabase\obj\Debug\WebArchitectureDatabase.pdb
+D:\Irlovan\Wine\WebArchitecture\SQLDatabase\obj\Debug\Model.xml
+D:\Irlovan\Wine\WebArchitecture\SQLDatabase\obj\Debug\refactor.xml
+D:\Irlovan\Wine\WebArchitecture\SQLDatabase\obj\Debug\postdeploy.sql
+D:\Irlovan\Wine\WebArchitecture\SQLDatabase\obj\Debug\predeploy.sql
+D:\Irlovan\GIT\WebArc\SQLDatabase\bin\Debug\WebArchitecture.dacpac
+D:\Irlovan\GIT\WebArc\SQLDatabase\bin\Debug\WebArchitectureDatabase.dll
+D:\Irlovan\GIT\WebArc\SQLDatabase\bin\Debug\WebArchitectureDatabase.pdb
+D:\Irlovan\GIT\WebArc\SQLDatabase\obj\Debug\WebArchitectureDatabase.dll
+D:\Irlovan\GIT\WebArc\SQLDatabase\obj\Debug\WebArchitectureDatabase.pdb
+D:\Irlovan\GIT\WebArc\SQLDatabase\obj\Debug\Model.xml
+D:\Irlovan\GIT\WebArc\SQLDatabase\obj\Debug\refactor.xml
+D:\Irlovan\GIT\WebArc\SQLDatabase\obj\Debug\postdeploy.sql
+D:\Irlovan\GIT\WebArc\SQLDatabase\obj\Debug\predeploy.sql
+D:\Irlovan Cloud\GIT\WebArc\SQLDatabase\bin\Debug\WebArchitecture.dacpac
+D:\Irlovan Cloud\GIT\WebArc\SQLDatabase\bin\Debug\WebArchitectureDatabase.dll
+D:\Irlovan Cloud\GIT\WebArc\SQLDatabase\bin\Debug\WebArchitectureDatabase.pdb
+D:\Irlovan Cloud\GIT\WebArc\SQLDatabase\obj\Debug\WebArchitectureDatabase.dll
+D:\Irlovan Cloud\GIT\WebArc\SQLDatabase\obj\Debug\WebArchitectureDatabase.pdb
+D:\Irlovan Cloud\GIT\WebArc\SQLDatabase\obj\Debug\Model.xml
+D:\Irlovan Cloud\GIT\WebArc\SQLDatabase\obj\Debug\refactor.xml
+D:\Irlovan Cloud\GIT\WebArc\SQLDatabase\obj\Debug\postdeploy.sql
+D:\Irlovan Cloud\GIT\WebArc\SQLDatabase\obj\Debug\predeploy.sql
+D:\Irlovan\GIT\WebArc\WebArc\SQLDatabase\bin\Debug\WebArchitecture.dacpac
+D:\Irlovan\GIT\WebArc\WebArc\SQLDatabase\bin\Debug\WebArchitectureDatabase.dll
+D:\Irlovan\GIT\WebArc\WebArc\SQLDatabase\bin\Debug\WebArchitectureDatabase.pdb
+D:\Irlovan\GIT\WebArc\WebArc\SQLDatabase\obj\Debug\WebArchitectureDatabase.dll
+D:\Irlovan\GIT\WebArc\WebArc\SQLDatabase\obj\Debug\WebArchitectureDatabase.pdb
+D:\Irlovan\GIT\WebArc\WebArc\SQLDatabase\obj\Debug\Model.xml
+D:\Irlovan\GIT\WebArc\WebArc\SQLDatabase\obj\Debug\refactor.xml
+D:\Irlovan\GIT\WebArc\WebArc\SQLDatabase\obj\Debug\postdeploy.sql
+D:\Irlovan\GIT\WebArc\WebArc\SQLDatabase\obj\Debug\predeploy.sql
+C:\Users\irlovan\Irlovan\Develop\WebArc\SQLDatabase\bin\Debug\WebArchitecture.dacpac
+C:\Users\irlovan\Irlovan\Develop\WebArc\SQLDatabase\bin\Debug\WebArchitectureDatabase.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\SQLDatabase\bin\Debug\WebArchitectureDatabase.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\SQLDatabase\obj\Debug\Model.xml
+C:\Users\irlovan\Irlovan\Develop\WebArc\SQLDatabase\obj\Debug\refactor.xml
+C:\Users\irlovan\Irlovan\Develop\WebArc\SQLDatabase\obj\Debug\postdeploy.sql
+C:\Users\irlovan\Irlovan\Develop\WebArc\SQLDatabase\obj\Debug\predeploy.sql
+C:\Users\irlovan\Irlovan\Develop\WebArc\SQLDatabase\obj\Debug\WebArchitectureDatabase.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\SQLDatabase\obj\Debug\WebArchitectureDatabase.pdb

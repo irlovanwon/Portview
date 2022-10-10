@@ -1,0 +1,10 @@
+<Notification>
+
+<EventNotification ID="AlarmTrigger" MaxEventCount= "50" MaxHistoryEventCount= "2000" >
+
+<Data Name="Demo.Alarm.Fault1" />
+<Data Name="Demo.Alarm.Fault2" />
+
+</EventNotification>
+
+</Notification>

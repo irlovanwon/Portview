@@ -1,0 +1,261 @@
+D:\Irlovan\Wine\WebArchitecture\LogRecorder\bin\Debug\LogRecorder.dll
+D:\Irlovan\Wine\WebArchitecture\LogRecorder\bin\Debug\LogRecorder.pdb
+D:\Irlovan\Wine\WebArchitecture\LogRecorder\bin\Debug\Database.dll
+D:\Irlovan\Wine\WebArchitecture\LogRecorder\bin\Debug\Global.dll
+D:\Irlovan\Wine\WebArchitecture\LogRecorder\bin\Debug\GlobalBase.dll
+D:\Irlovan\Wine\WebArchitecture\LogRecorder\bin\Debug\Helper.dll
+D:\Irlovan\Wine\WebArchitecture\LogRecorder\bin\Debug\Lib.dll
+D:\Irlovan\Wine\WebArchitecture\LogRecorder\bin\Debug\Log.dll
+D:\Irlovan\Wine\WebArchitecture\LogRecorder\bin\Debug\log4net.dll
+D:\Irlovan\Wine\WebArchitecture\LogRecorder\bin\Debug\Message.dll
+D:\Irlovan\Wine\WebArchitecture\LogRecorder\bin\Debug\Recorder.dll
+D:\Irlovan\Wine\WebArchitecture\LogRecorder\bin\Debug\Register.dll
+D:\Irlovan\Wine\WebArchitecture\LogRecorder\bin\Debug\Control.dll
+D:\Irlovan\Wine\WebArchitecture\LogRecorder\bin\Debug\SuperSocket.SocketBase.dll
+D:\Irlovan\Wine\WebArchitecture\LogRecorder\bin\Debug\SuperWebSocket.dll
+D:\Irlovan\Wine\WebArchitecture\LogRecorder\bin\Debug\SuperSocket.SocketEngine.dll
+D:\Irlovan\Wine\WebArchitecture\LogRecorder\bin\Debug\DataQuality.dll
+D:\Irlovan\Wine\WebArchitecture\LogRecorder\bin\Debug\SuperSocket.Common.dll
+D:\Irlovan\Wine\WebArchitecture\LogRecorder\bin\Debug\GlobalBase.pdb
+D:\Irlovan\Wine\WebArchitecture\LogRecorder\bin\Debug\Global.pdb
+D:\Irlovan\Wine\WebArchitecture\LogRecorder\bin\Debug\Helper.pdb
+D:\Irlovan\Wine\WebArchitecture\LogRecorder\bin\Debug\Lib.pdb
+D:\Irlovan\Wine\WebArchitecture\LogRecorder\bin\Debug\Log.pdb
+D:\Irlovan\Wine\WebArchitecture\LogRecorder\bin\Debug\Database.pdb
+D:\Irlovan\Wine\WebArchitecture\LogRecorder\bin\Debug\Message.pdb
+D:\Irlovan\Wine\WebArchitecture\LogRecorder\bin\Debug\Recorder.pdb
+D:\Irlovan\Wine\WebArchitecture\LogRecorder\bin\Debug\Register.pdb
+D:\Irlovan\Wine\WebArchitecture\LogRecorder\bin\Debug\Control.pdb
+D:\Irlovan\Wine\WebArchitecture\LogRecorder\bin\Debug\DataQuality.pdb
+D:\Irlovan\Wine\WebArchitecture\LogRecorder\bin\Debug\en\GlobalBase.resources.dll
+D:\Irlovan\Wine\WebArchitecture\LogRecorder\bin\Debug\zh-CHS\GlobalBase.resources.dll
+D:\Irlovan\Wine\WebArchitecture\LogRecorder\obj\Debug\TextRecorder.csprojResolveAssemblyReference.cache
+D:\Irlovan\Wine\WebArchitecture\LogRecorder\obj\Debug\LogRecorder.dll
+D:\Irlovan\Wine\WebArchitecture\LogRecorder\obj\Debug\LogRecorder.pdb
+D:\Irlovan\Wine\WebArchitecture\LogRecorder\bin\Debug\DateContainer.dll
+D:\Irlovan\Wine\WebArchitecture\LogRecorder\bin\Debug\DateContainer.pdb
+D:\Irlovan\Wine\WebArchitecture\TextRecorder\bin\Debug\DateContainer.dll
+D:\Irlovan\Wine\WebArchitecture\TextRecorder\bin\Debug\Global.dll
+D:\Irlovan\Wine\WebArchitecture\TextRecorder\bin\Debug\Lib.dll
+D:\Irlovan\Wine\WebArchitecture\TextRecorder\bin\Debug\Log.dll
+D:\Irlovan\Wine\WebArchitecture\TextRecorder\bin\Debug\Message.dll
+D:\Irlovan\Wine\WebArchitecture\TextRecorder\bin\Debug\Recorder.dll
+D:\Irlovan\Wine\WebArchitecture\TextRecorder\bin\Debug\Control.dll
+D:\Irlovan\Wine\WebArchitecture\TextRecorder\bin\Debug\DataQuality.dll
+D:\Irlovan\Wine\WebArchitecture\TextRecorder\bin\Debug\Global.pdb
+D:\Irlovan\Wine\WebArchitecture\TextRecorder\bin\Debug\Lib.pdb
+D:\Irlovan\Wine\WebArchitecture\TextRecorder\bin\Debug\Log.pdb
+D:\Irlovan\Wine\WebArchitecture\TextRecorder\bin\Debug\Message.pdb
+D:\Irlovan\Wine\WebArchitecture\TextRecorder\bin\Debug\Recorder.pdb
+D:\Irlovan\Wine\WebArchitecture\TextRecorder\bin\Debug\DateContainer.pdb
+D:\Irlovan\Wine\WebArchitecture\TextRecorder\bin\Debug\Control.pdb
+D:\Irlovan\Wine\WebArchitecture\TextRecorder\bin\Debug\DataQuality.pdb
+D:\Irlovan\Wine\WebArchitecture\TextRecorder\obj\Debug\TextRecorder.csprojResolveAssemblyReference.cache
+D:\Irlovan\Wine\WebArchitecture\TextRecorder\bin\Debug\TextRecorder.dll
+D:\Irlovan\Wine\WebArchitecture\TextRecorder\bin\Debug\TextRecorder.pdb
+D:\Irlovan\Wine\WebArchitecture\TextRecorder\obj\Debug\TextRecorder.dll
+D:\Irlovan\Wine\WebArchitecture\TextRecorder\obj\Debug\TextRecorder.pdb
+D:\Irlovan\Wine\WebArchitecture\TextRecorder\bin\Debug\RTDB.dll
+D:\Irlovan\Wine\WebArchitecture\TextRecorder\bin\Debug\RTDB.pdb
+D:\Irlovan\Wine\WebArchitecture\TextRecorder\bin\Debug\en\Global.resources.dll
+D:\Irlovan\Wine\WebArchitecture\TextRecorder\bin\Debug\zh-CHS\Global.resources.dll
+D:\Irlovan\Wine\WebArchitecture\TextRecorder\bin\Debug\en\Lib.resources.dll
+D:\Irlovan\Wine\WebArchitecture\TextRecorder\bin\Debug\zh-CHS\Lib.resources.dll
+D:\Irlovan\GIT\WebArc\TextRecorder\bin\Debug\TextRecorder.dll
+D:\Irlovan\GIT\WebArc\TextRecorder\bin\Debug\TextRecorder.pdb
+D:\Irlovan\GIT\WebArc\TextRecorder\bin\Debug\DataQuality.dll
+D:\Irlovan\GIT\WebArc\TextRecorder\bin\Debug\DateContainer.dll
+D:\Irlovan\GIT\WebArc\TextRecorder\bin\Debug\Global.dll
+D:\Irlovan\GIT\WebArc\TextRecorder\bin\Debug\Lib.dll
+D:\Irlovan\GIT\WebArc\TextRecorder\bin\Debug\Log.dll
+D:\Irlovan\GIT\WebArc\TextRecorder\bin\Debug\Message.dll
+D:\Irlovan\GIT\WebArc\TextRecorder\bin\Debug\Recorder.dll
+D:\Irlovan\GIT\WebArc\TextRecorder\bin\Debug\RTDB.dll
+D:\Irlovan\GIT\WebArc\TextRecorder\bin\Debug\Control.dll
+D:\Irlovan\GIT\WebArc\TextRecorder\bin\Debug\DataQuality.pdb
+D:\Irlovan\GIT\WebArc\TextRecorder\bin\Debug\DateContainer.pdb
+D:\Irlovan\GIT\WebArc\TextRecorder\bin\Debug\Global.pdb
+D:\Irlovan\GIT\WebArc\TextRecorder\bin\Debug\Lib.pdb
+D:\Irlovan\GIT\WebArc\TextRecorder\bin\Debug\Log.pdb
+D:\Irlovan\GIT\WebArc\TextRecorder\bin\Debug\RTDB.pdb
+D:\Irlovan\GIT\WebArc\TextRecorder\bin\Debug\Message.pdb
+D:\Irlovan\GIT\WebArc\TextRecorder\bin\Debug\Recorder.pdb
+D:\Irlovan\GIT\WebArc\TextRecorder\bin\Debug\Control.pdb
+D:\Irlovan\GIT\WebArc\TextRecorder\bin\Debug\en\Global.resources.dll
+D:\Irlovan\GIT\WebArc\TextRecorder\bin\Debug\zh-CHS\Global.resources.dll
+D:\Irlovan\GIT\WebArc\TextRecorder\bin\Debug\en\Lib.resources.dll
+D:\Irlovan\GIT\WebArc\TextRecorder\bin\Debug\zh-CHS\Lib.resources.dll
+D:\Irlovan\GIT\WebArc\TextRecorder\obj\Debug\TextRecorder.dll
+D:\Irlovan\GIT\WebArc\TextRecorder\obj\Debug\TextRecorder.pdb
+D:\Irlovan Cloud\GIT\WebArc\TextRecorder\bin\Debug\TextRecorder.dll
+D:\Irlovan Cloud\GIT\WebArc\TextRecorder\bin\Debug\TextRecorder.pdb
+D:\Irlovan Cloud\GIT\WebArc\TextRecorder\bin\Debug\DataQuality.dll
+D:\Irlovan Cloud\GIT\WebArc\TextRecorder\bin\Debug\DateContainer.dll
+D:\Irlovan Cloud\GIT\WebArc\TextRecorder\bin\Debug\Global.dll
+D:\Irlovan Cloud\GIT\WebArc\TextRecorder\bin\Debug\Lib.dll
+D:\Irlovan Cloud\GIT\WebArc\TextRecorder\bin\Debug\Log.dll
+D:\Irlovan Cloud\GIT\WebArc\TextRecorder\bin\Debug\Message.dll
+D:\Irlovan Cloud\GIT\WebArc\TextRecorder\bin\Debug\Recorder.dll
+D:\Irlovan Cloud\GIT\WebArc\TextRecorder\bin\Debug\RTDB.dll
+D:\Irlovan Cloud\GIT\WebArc\TextRecorder\bin\Debug\Control.dll
+D:\Irlovan Cloud\GIT\WebArc\TextRecorder\bin\Debug\DataQuality.pdb
+D:\Irlovan Cloud\GIT\WebArc\TextRecorder\bin\Debug\DateContainer.pdb
+D:\Irlovan Cloud\GIT\WebArc\TextRecorder\bin\Debug\Global.pdb
+D:\Irlovan Cloud\GIT\WebArc\TextRecorder\bin\Debug\Lib.pdb
+D:\Irlovan Cloud\GIT\WebArc\TextRecorder\bin\Debug\Log.pdb
+D:\Irlovan Cloud\GIT\WebArc\TextRecorder\bin\Debug\RTDB.pdb
+D:\Irlovan Cloud\GIT\WebArc\TextRecorder\bin\Debug\Message.pdb
+D:\Irlovan Cloud\GIT\WebArc\TextRecorder\bin\Debug\Recorder.pdb
+D:\Irlovan Cloud\GIT\WebArc\TextRecorder\bin\Debug\Control.pdb
+D:\Irlovan Cloud\GIT\WebArc\TextRecorder\bin\Debug\en\Global.resources.dll
+D:\Irlovan Cloud\GIT\WebArc\TextRecorder\bin\Debug\zh-CHS\Global.resources.dll
+D:\Irlovan Cloud\GIT\WebArc\TextRecorder\bin\Debug\en\Lib.resources.dll
+D:\Irlovan Cloud\GIT\WebArc\TextRecorder\bin\Debug\zh-CHS\Lib.resources.dll
+D:\Irlovan Cloud\GIT\WebArc\TextRecorder\obj\Debug\TextRecorder.csprojResolveAssemblyReference.cache
+D:\Irlovan Cloud\GIT\WebArc\TextRecorder\obj\Debug\TextRecorder.dll
+D:\Irlovan Cloud\GIT\WebArc\TextRecorder\obj\Debug\TextRecorder.pdb
+D:\Irlovan Cloud\GIT\WebArc\Recorder\TextRecorder\obj\Debug\TextRecorder.dll
+D:\Irlovan Cloud\GIT\WebArc\Recorder\TextRecorder\obj\Debug\TextRecorder.pdb
+D:\Irlovan Cloud\GIT\WebArc\Recorder\TextRecorder\bin\Debug\TextRecorder.dll
+D:\Irlovan Cloud\GIT\WebArc\Recorder\TextRecorder\bin\Debug\TextRecorder.pdb
+D:\Irlovan Cloud\GIT\WebArc\Recorder\TextRecorder\bin\Debug\DataQuality.dll
+D:\Irlovan Cloud\GIT\WebArc\Recorder\TextRecorder\bin\Debug\DateContainer.dll
+D:\Irlovan Cloud\GIT\WebArc\Recorder\TextRecorder\bin\Debug\Global.dll
+D:\Irlovan Cloud\GIT\WebArc\Recorder\TextRecorder\bin\Debug\Lib.dll
+D:\Irlovan Cloud\GIT\WebArc\Recorder\TextRecorder\bin\Debug\Log.dll
+D:\Irlovan Cloud\GIT\WebArc\Recorder\TextRecorder\bin\Debug\Message.dll
+D:\Irlovan Cloud\GIT\WebArc\Recorder\TextRecorder\bin\Debug\Recorder.dll
+D:\Irlovan Cloud\GIT\WebArc\Recorder\TextRecorder\bin\Debug\RTDB.dll
+D:\Irlovan Cloud\GIT\WebArc\Recorder\TextRecorder\bin\Debug\Control.dll
+D:\Irlovan Cloud\GIT\WebArc\Recorder\TextRecorder\bin\Debug\DataQuality.pdb
+D:\Irlovan Cloud\GIT\WebArc\Recorder\TextRecorder\bin\Debug\DateContainer.pdb
+D:\Irlovan Cloud\GIT\WebArc\Recorder\TextRecorder\bin\Debug\Global.pdb
+D:\Irlovan Cloud\GIT\WebArc\Recorder\TextRecorder\bin\Debug\Lib.pdb
+D:\Irlovan Cloud\GIT\WebArc\Recorder\TextRecorder\bin\Debug\Log.pdb
+D:\Irlovan Cloud\GIT\WebArc\Recorder\TextRecorder\bin\Debug\RTDB.pdb
+D:\Irlovan Cloud\GIT\WebArc\Recorder\TextRecorder\bin\Debug\Message.pdb
+D:\Irlovan Cloud\GIT\WebArc\Recorder\TextRecorder\bin\Debug\Recorder.pdb
+D:\Irlovan Cloud\GIT\WebArc\Recorder\TextRecorder\bin\Debug\Control.pdb
+D:\Irlovan Cloud\GIT\WebArc\Recorder\TextRecorder\bin\Debug\en\Global.resources.dll
+D:\Irlovan Cloud\GIT\WebArc\Recorder\TextRecorder\bin\Debug\zh-CHS\Global.resources.dll
+D:\Irlovan Cloud\GIT\WebArc\Recorder\TextRecorder\bin\Debug\en\Lib.resources.dll
+D:\Irlovan Cloud\GIT\WebArc\Recorder\TextRecorder\bin\Debug\zh-CHS\Lib.resources.dll
+D:\Irlovan Cloud\GIT\WebArc\Recorder\TextRecorder\obj\Debug\TextRecorder.csprojResolveAssemblyReference.cache
+D:\Irlovan Cloud\GIT\WebArc\Recorder\TextRecorder\bin\Debug\DateLayer.dll
+D:\Irlovan Cloud\GIT\WebArc\Recorder\TextRecorder\bin\Debug\DateLayer.pdb
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\TextRecorder\bin\Debug\TextRecorder.dll
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\TextRecorder\bin\Debug\TextRecorder.pdb
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\TextRecorder\bin\Debug\DataQuality.dll
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\TextRecorder\bin\Debug\DateLayer.dll
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\TextRecorder\bin\Debug\Global.dll
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\TextRecorder\bin\Debug\Lib.dll
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\TextRecorder\bin\Debug\Log.dll
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\TextRecorder\bin\Debug\Message.dll
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\TextRecorder\bin\Debug\Recorder.dll
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\TextRecorder\bin\Debug\RTDB.dll
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\TextRecorder\bin\Debug\Control.dll
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\TextRecorder\bin\Debug\DateContainer.dll
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\TextRecorder\bin\Debug\DateLayer.pdb
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\TextRecorder\bin\Debug\DataQuality.pdb
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\TextRecorder\bin\Debug\Global.pdb
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\TextRecorder\bin\Debug\Lib.pdb
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\TextRecorder\bin\Debug\Log.pdb
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\TextRecorder\bin\Debug\RTDB.pdb
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\TextRecorder\bin\Debug\Message.pdb
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\TextRecorder\bin\Debug\Recorder.pdb
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\TextRecorder\bin\Debug\Control.pdb
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\TextRecorder\bin\Debug\DateContainer.pdb
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\TextRecorder\bin\Debug\en\Global.resources.dll
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\TextRecorder\bin\Debug\zh-CHS\Global.resources.dll
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\TextRecorder\bin\Debug\en\Lib.resources.dll
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\TextRecorder\bin\Debug\zh-CHS\Lib.resources.dll
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\TextRecorder\obj\Debug\TextRecorder.csprojResolveAssemblyReference.cache
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\TextRecorder\obj\Debug\TextRecorder.dll
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\TextRecorder\obj\Debug\TextRecorder.pdb
+D:\Irlovan\GIT\WebArc\Recorder\TextRecorder\bin\Debug\TextRecorder.dll
+D:\Irlovan\GIT\WebArc\Recorder\TextRecorder\bin\Debug\TextRecorder.pdb
+D:\Irlovan\GIT\WebArc\Recorder\TextRecorder\bin\Debug\DataQuality.dll
+D:\Irlovan\GIT\WebArc\Recorder\TextRecorder\bin\Debug\DateLayer.dll
+D:\Irlovan\GIT\WebArc\Recorder\TextRecorder\bin\Debug\Global.dll
+D:\Irlovan\GIT\WebArc\Recorder\TextRecorder\bin\Debug\Lib.dll
+D:\Irlovan\GIT\WebArc\Recorder\TextRecorder\bin\Debug\Log.dll
+D:\Irlovan\GIT\WebArc\Recorder\TextRecorder\bin\Debug\Message.dll
+D:\Irlovan\GIT\WebArc\Recorder\TextRecorder\bin\Debug\Recorder.dll
+D:\Irlovan\GIT\WebArc\Recorder\TextRecorder\bin\Debug\RTDB.dll
+D:\Irlovan\GIT\WebArc\Recorder\TextRecorder\bin\Debug\Control.dll
+D:\Irlovan\GIT\WebArc\Recorder\TextRecorder\bin\Debug\DateContainer.dll
+D:\Irlovan\GIT\WebArc\Recorder\TextRecorder\bin\Debug\DateLayer.pdb
+D:\Irlovan\GIT\WebArc\Recorder\TextRecorder\bin\Debug\DataQuality.pdb
+D:\Irlovan\GIT\WebArc\Recorder\TextRecorder\bin\Debug\Global.pdb
+D:\Irlovan\GIT\WebArc\Recorder\TextRecorder\bin\Debug\Lib.pdb
+D:\Irlovan\GIT\WebArc\Recorder\TextRecorder\bin\Debug\Log.pdb
+D:\Irlovan\GIT\WebArc\Recorder\TextRecorder\bin\Debug\RTDB.pdb
+D:\Irlovan\GIT\WebArc\Recorder\TextRecorder\bin\Debug\Message.pdb
+D:\Irlovan\GIT\WebArc\Recorder\TextRecorder\bin\Debug\Recorder.pdb
+D:\Irlovan\GIT\WebArc\Recorder\TextRecorder\bin\Debug\Control.pdb
+D:\Irlovan\GIT\WebArc\Recorder\TextRecorder\bin\Debug\DateContainer.pdb
+D:\Irlovan\GIT\WebArc\Recorder\TextRecorder\bin\Debug\en\Global.resources.dll
+D:\Irlovan\GIT\WebArc\Recorder\TextRecorder\bin\Debug\zh-CHS\Global.resources.dll
+D:\Irlovan\GIT\WebArc\Recorder\TextRecorder\bin\Debug\en\Lib.resources.dll
+D:\Irlovan\GIT\WebArc\Recorder\TextRecorder\bin\Debug\zh-CHS\Lib.resources.dll
+D:\Irlovan\GIT\WebArc\Recorder\TextRecorder\obj\Debug\TextRecorder.csprojResolveAssemblyReference.cache
+D:\Irlovan\GIT\WebArc\Recorder\TextRecorder\obj\Debug\TextRecorder.dll
+D:\Irlovan\GIT\WebArc\Recorder\TextRecorder\obj\Debug\TextRecorder.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\TextRecorder\bin\Debug\TextRecorder.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\TextRecorder\bin\Debug\TextRecorder.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\TextRecorder\bin\Debug\DataQuality.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\TextRecorder\bin\Debug\DateLayer.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\TextRecorder\bin\Debug\Global.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\TextRecorder\bin\Debug\Lib.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\TextRecorder\bin\Debug\Log.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\TextRecorder\bin\Debug\Message.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\TextRecorder\bin\Debug\Recorder.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\TextRecorder\bin\Debug\RTDB.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\TextRecorder\bin\Debug\Control.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\TextRecorder\bin\Debug\DateContainer.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\TextRecorder\bin\Debug\DateLayer.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\TextRecorder\bin\Debug\DataQuality.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\TextRecorder\bin\Debug\Global.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\TextRecorder\bin\Debug\Lib.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\TextRecorder\bin\Debug\Log.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\TextRecorder\bin\Debug\RTDB.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\TextRecorder\bin\Debug\Message.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\TextRecorder\bin\Debug\Recorder.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\TextRecorder\bin\Debug\Control.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\TextRecorder\bin\Debug\DateContainer.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\TextRecorder\bin\Debug\en\Global.resources.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\TextRecorder\bin\Debug\zh-CHS\Global.resources.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\TextRecorder\bin\Debug\en\Lib.resources.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\TextRecorder\bin\Debug\zh-CHS\Lib.resources.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\TextRecorder\obj\Debug\TextRecorder.csprojResolveAssemblyReference.cache
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\TextRecorder\obj\Debug\TextRecorder.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\TextRecorder\obj\Debug\TextRecorder.pdb
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\TextRecorder\bin\Debug\TextRecorder.dll
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\TextRecorder\bin\Debug\TextRecorder.pdb
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\TextRecorder\bin\Debug\DataQuality.dll
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\TextRecorder\bin\Debug\DateLayer.dll
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\TextRecorder\bin\Debug\Global.dll
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\TextRecorder\bin\Debug\Lib.dll
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\TextRecorder\bin\Debug\Log.dll
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\TextRecorder\bin\Debug\Message.dll
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\TextRecorder\bin\Debug\Recorder.dll
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\TextRecorder\bin\Debug\RTDB.dll
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\TextRecorder\bin\Debug\Control.dll
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\TextRecorder\bin\Debug\DateContainer.dll
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\TextRecorder\bin\Debug\DateLayer.pdb
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\TextRecorder\bin\Debug\DataQuality.pdb
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\TextRecorder\bin\Debug\Global.pdb
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\TextRecorder\bin\Debug\Lib.pdb
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\TextRecorder\bin\Debug\Log.pdb
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\TextRecorder\bin\Debug\RTDB.pdb
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\TextRecorder\bin\Debug\Message.pdb
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\TextRecorder\bin\Debug\Recorder.pdb
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\TextRecorder\bin\Debug\Control.pdb
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\TextRecorder\bin\Debug\DateContainer.pdb
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\TextRecorder\bin\Debug\en\Global.resources.dll
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\TextRecorder\bin\Debug\zh-CHS\Global.resources.dll
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\TextRecorder\bin\Debug\en\Lib.resources.dll
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\TextRecorder\bin\Debug\zh-CHS\Lib.resources.dll
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\TextRecorder\obj\Debug\TextRecorder.csprojResolveAssemblyReference.cache
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\TextRecorder\obj\Debug\TextRecorder.dll
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\TextRecorder\obj\Debug\TextRecorder.pdb

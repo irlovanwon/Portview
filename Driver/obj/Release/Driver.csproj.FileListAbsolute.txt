@@ -1,0 +1,13 @@
+E:\WebArchitecture\Driver\bin\Release\Driver.dll
+E:\WebArchitecture\Driver\bin\Release\Driver.pdb
+E:\WebArchitecture\Driver\bin\Release\Helper.dll
+E:\WebArchitecture\Driver\bin\Release\RealtimeDatabase.dll
+E:\WebArchitecture\Driver\bin\Release\WebArchitectureDatabase.dll
+E:\WebArchitecture\Driver\bin\Release\WebArchitectureDatabase.pdb
+E:\WebArchitecture\Driver\bin\Release\Helper.pdb
+E:\WebArchitecture\Driver\bin\Release\RealtimeDatabase.pdb
+E:\WebArchitecture\Driver\obj\Release\Driver.csprojResolveAssemblyReference.cache
+E:\WebArchitecture\Driver\obj\Release\Interop.OPCAutomation.dll
+E:\WebArchitecture\Driver\obj\Release\Driver.csproj.ResolveComReference.cache
+E:\WebArchitecture\Driver\obj\Release\Driver.dll
+E:\WebArchitecture\Driver\obj\Release\Driver.pdb

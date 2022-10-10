@@ -1,0 +1,7 @@
+E:\WebArchitecture\RealtimeDatabase\bin\Release\RealtimeDatabase.dll
+E:\WebArchitecture\RealtimeDatabase\bin\Release\RealtimeDatabase.pdb
+E:\WebArchitecture\RealtimeDatabase\bin\Release\Helper.dll
+E:\WebArchitecture\RealtimeDatabase\bin\Release\Helper.pdb
+E:\WebArchitecture\RealtimeDatabase\obj\Release\RealtimeDatabase.csprojResolveAssemblyReference.cache
+E:\WebArchitecture\RealtimeDatabase\obj\Release\RealtimeDatabase.dll
+E:\WebArchitecture\RealtimeDatabase\obj\Release\RealtimeDatabase.pdb

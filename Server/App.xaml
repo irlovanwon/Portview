@@ -1,0 +1,14 @@
+﻿<Application x:Class="Irlovan.Server.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             ShutdownMode="OnExplicitShutdown">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="NotifyIcon\NotifyIcon.xaml" />
+                <ResourceDictionary Source="Culture\Culture.xaml" />
+                <ResourceDictionary Source="Culture\Culture.en.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

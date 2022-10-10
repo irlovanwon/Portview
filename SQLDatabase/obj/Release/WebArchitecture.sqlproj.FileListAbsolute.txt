@@ -1,0 +1,9 @@
+E:\WebArchitecture\SQLDatabase\bin\Release\WebArchitecture.dacpac
+E:\WebArchitecture\SQLDatabase\bin\Release\WebArchitectureDatabase.dll
+E:\WebArchitecture\SQLDatabase\bin\Release\WebArchitectureDatabase.pdb
+E:\WebArchitecture\SQLDatabase\obj\Release\WebArchitectureDatabase.dll
+E:\WebArchitecture\SQLDatabase\obj\Release\WebArchitectureDatabase.pdb
+E:\WebArchitecture\SQLDatabase\obj\Release\Model.xml
+E:\WebArchitecture\SQLDatabase\obj\Release\refactor.xml
+E:\WebArchitecture\SQLDatabase\obj\Release\postdeploy.sql
+E:\WebArchitecture\SQLDatabase\obj\Release\predeploy.sql

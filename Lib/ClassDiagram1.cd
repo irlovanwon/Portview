@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Irlovan.Lib.Array.MatrixArray&lt;T&gt;" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAIIKAAAEFkAASIAEAYABAAhAAAEAgAAAAAAAQ=</HashCode>
+      <FileName>Array\MatrixArray.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Irlovan.Lib.Array" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAABAABAAAA=</HashCode>
+      <FileName>Array\Array.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Irlovan.Lib.CMD" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>CMD\CMD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Irlovan.Lib.Convertor" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Convertor\Convertor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Irlovan.Lib.File" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>File\File.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Irlovan.Lib.SQLServer" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IIQBhAAAEEAAzAAAEAAAEAAAAAEEUAECAAAAAgAEAqA=</HashCode>
+      <FileName>SQL\SQLServer\SQLServer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Irlovan.Lib.Symbol" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAQAAAAAAAgAAAAAAAAgAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Symbol\Symbol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Irlovan.Lib.XML" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>XML\XML.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Irlovan.Lib.Properties.Resources" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EQAajQAQEQAxAQskKAdBFAuAgYgCQxKKIqlUCAAGYJQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

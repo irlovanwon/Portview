@@ -1,0 +1,138 @@
+D:\Irlovan\Wine\WebArchitecture\GlobalBase\obj\Debug\Global.csprojResolveAssemblyReference.cache
+D:\Irlovan\Wine\WebArchitecture\GlobalBase\obj\Debug\Irlovan.Global.Properties.Resources.resources
+D:\Irlovan\Wine\WebArchitecture\GlobalBase\obj\Debug\Irlovan.Global.Properties.Resources.en.resources
+D:\Irlovan\Wine\WebArchitecture\GlobalBase\obj\Debug\Irlovan.Global.Properties.Resources.zh-CHS.resources
+D:\Irlovan\Wine\WebArchitecture\GlobalBase\obj\Debug\Global.csproj.GenerateResource.Cache
+D:\Irlovan\Wine\WebArchitecture\GlobalBase\bin\Debug\Global.dll
+D:\Irlovan\Wine\WebArchitecture\GlobalBase\bin\Debug\Global.pdb
+D:\Irlovan\Wine\WebArchitecture\GlobalBase\bin\Debug\en\Global.resources.dll
+D:\Irlovan\Wine\WebArchitecture\GlobalBase\bin\Debug\zh-CHS\Global.resources.dll
+D:\Irlovan\Wine\WebArchitecture\GlobalBase\bin\Debug\Control.dll
+D:\Irlovan\Wine\WebArchitecture\GlobalBase\bin\Debug\Log.dll
+D:\Irlovan\Wine\WebArchitecture\GlobalBase\bin\Debug\Lib.dll
+D:\Irlovan\Wine\WebArchitecture\GlobalBase\bin\Debug\DateContainer.dll
+D:\Irlovan\Wine\WebArchitecture\GlobalBase\bin\Debug\Control.pdb
+D:\Irlovan\Wine\WebArchitecture\GlobalBase\bin\Debug\Log.pdb
+D:\Irlovan\Wine\WebArchitecture\GlobalBase\bin\Debug\Lib.pdb
+D:\Irlovan\Wine\WebArchitecture\GlobalBase\bin\Debug\DateContainer.pdb
+D:\Irlovan\Wine\WebArchitecture\GlobalBase\bin\Debug\en\Lib.resources.dll
+D:\Irlovan\Wine\WebArchitecture\GlobalBase\bin\Debug\zh-CHS\Lib.resources.dll
+D:\Irlovan\Wine\WebArchitecture\GlobalBase\obj\Debug\en\Global.resources.dll
+D:\Irlovan\Wine\WebArchitecture\GlobalBase\obj\Debug\zh-CHS\Global.resources.dll
+D:\Irlovan\Wine\WebArchitecture\GlobalBase\obj\Debug\Global.dll
+D:\Irlovan\Wine\WebArchitecture\GlobalBase\obj\Debug\Global.pdb
+D:\Irlovan\GIT\WebArc\GlobalBase\bin\Debug\Global.dll
+D:\Irlovan\GIT\WebArc\GlobalBase\bin\Debug\Global.pdb
+D:\Irlovan\GIT\WebArc\GlobalBase\bin\Debug\en\Global.resources.dll
+D:\Irlovan\GIT\WebArc\GlobalBase\bin\Debug\zh-CHS\Global.resources.dll
+D:\Irlovan\GIT\WebArc\GlobalBase\bin\Debug\Control.dll
+D:\Irlovan\GIT\WebArc\GlobalBase\bin\Debug\Log.dll
+D:\Irlovan\GIT\WebArc\GlobalBase\bin\Debug\Lib.dll
+D:\Irlovan\GIT\WebArc\GlobalBase\bin\Debug\DateContainer.dll
+D:\Irlovan\GIT\WebArc\GlobalBase\bin\Debug\Control.pdb
+D:\Irlovan\GIT\WebArc\GlobalBase\bin\Debug\Log.pdb
+D:\Irlovan\GIT\WebArc\GlobalBase\bin\Debug\Lib.pdb
+D:\Irlovan\GIT\WebArc\GlobalBase\bin\Debug\DateContainer.pdb
+D:\Irlovan\GIT\WebArc\GlobalBase\bin\Debug\en\Lib.resources.dll
+D:\Irlovan\GIT\WebArc\GlobalBase\bin\Debug\zh-CHS\Lib.resources.dll
+D:\Irlovan\GIT\WebArc\GlobalBase\obj\Debug\Global.csprojResolveAssemblyReference.cache
+D:\Irlovan\GIT\WebArc\GlobalBase\obj\Debug\Irlovan.Global.Properties.Resources.resources
+D:\Irlovan\GIT\WebArc\GlobalBase\obj\Debug\Irlovan.Global.Properties.Resources.en.resources
+D:\Irlovan\GIT\WebArc\GlobalBase\obj\Debug\Irlovan.Global.Properties.Resources.zh-CHS.resources
+D:\Irlovan\GIT\WebArc\GlobalBase\obj\Debug\Global.csproj.GenerateResource.Cache
+D:\Irlovan\GIT\WebArc\GlobalBase\obj\Debug\en\Global.resources.dll
+D:\Irlovan\GIT\WebArc\GlobalBase\obj\Debug\zh-CHS\Global.resources.dll
+D:\Irlovan\GIT\WebArc\GlobalBase\obj\Debug\Global.dll
+D:\Irlovan\GIT\WebArc\GlobalBase\obj\Debug\Global.pdb
+D:\Irlovan Cloud\GIT\WebArc\GlobalBase\bin\Debug\Global.dll
+D:\Irlovan Cloud\GIT\WebArc\GlobalBase\bin\Debug\Global.pdb
+D:\Irlovan Cloud\GIT\WebArc\GlobalBase\bin\Debug\en\Global.resources.dll
+D:\Irlovan Cloud\GIT\WebArc\GlobalBase\bin\Debug\zh-CHS\Global.resources.dll
+D:\Irlovan Cloud\GIT\WebArc\GlobalBase\bin\Debug\Control.dll
+D:\Irlovan Cloud\GIT\WebArc\GlobalBase\bin\Debug\Log.dll
+D:\Irlovan Cloud\GIT\WebArc\GlobalBase\bin\Debug\Lib.dll
+D:\Irlovan Cloud\GIT\WebArc\GlobalBase\bin\Debug\DateContainer.dll
+D:\Irlovan Cloud\GIT\WebArc\GlobalBase\bin\Debug\Control.pdb
+D:\Irlovan Cloud\GIT\WebArc\GlobalBase\bin\Debug\Log.pdb
+D:\Irlovan Cloud\GIT\WebArc\GlobalBase\bin\Debug\Lib.pdb
+D:\Irlovan Cloud\GIT\WebArc\GlobalBase\bin\Debug\DateContainer.pdb
+D:\Irlovan Cloud\GIT\WebArc\GlobalBase\bin\Debug\en\Lib.resources.dll
+D:\Irlovan Cloud\GIT\WebArc\GlobalBase\bin\Debug\zh-CHS\Lib.resources.dll
+D:\Irlovan Cloud\GIT\WebArc\GlobalBase\obj\Debug\Global.csprojResolveAssemblyReference.cache
+D:\Irlovan Cloud\GIT\WebArc\GlobalBase\obj\Debug\Irlovan.Global.Properties.Resources.resources
+D:\Irlovan Cloud\GIT\WebArc\GlobalBase\obj\Debug\Irlovan.Global.Properties.Resources.en.resources
+D:\Irlovan Cloud\GIT\WebArc\GlobalBase\obj\Debug\Irlovan.Global.Properties.Resources.zh-CHS.resources
+D:\Irlovan Cloud\GIT\WebArc\GlobalBase\obj\Debug\Global.csproj.GenerateResource.Cache
+D:\Irlovan Cloud\GIT\WebArc\GlobalBase\obj\Debug\en\Global.resources.dll
+D:\Irlovan Cloud\GIT\WebArc\GlobalBase\obj\Debug\zh-CHS\Global.resources.dll
+D:\Irlovan Cloud\GIT\WebArc\GlobalBase\obj\Debug\Global.dll
+D:\Irlovan Cloud\GIT\WebArc\GlobalBase\obj\Debug\Global.pdb
+D:\Irlovan\GIT\WebArc\WebArc\GlobalBase\bin\Debug\Global.dll
+D:\Irlovan\GIT\WebArc\WebArc\GlobalBase\bin\Debug\Global.pdb
+D:\Irlovan\GIT\WebArc\WebArc\GlobalBase\bin\Debug\en\Global.resources.dll
+D:\Irlovan\GIT\WebArc\WebArc\GlobalBase\bin\Debug\zh-CHS\Global.resources.dll
+D:\Irlovan\GIT\WebArc\WebArc\GlobalBase\bin\Debug\Control.dll
+D:\Irlovan\GIT\WebArc\WebArc\GlobalBase\bin\Debug\Log.dll
+D:\Irlovan\GIT\WebArc\WebArc\GlobalBase\bin\Debug\Lib.dll
+D:\Irlovan\GIT\WebArc\WebArc\GlobalBase\bin\Debug\DateContainer.dll
+D:\Irlovan\GIT\WebArc\WebArc\GlobalBase\bin\Debug\Control.pdb
+D:\Irlovan\GIT\WebArc\WebArc\GlobalBase\bin\Debug\Log.pdb
+D:\Irlovan\GIT\WebArc\WebArc\GlobalBase\bin\Debug\Lib.pdb
+D:\Irlovan\GIT\WebArc\WebArc\GlobalBase\bin\Debug\DateContainer.pdb
+D:\Irlovan\GIT\WebArc\WebArc\GlobalBase\bin\Debug\en\Lib.resources.dll
+D:\Irlovan\GIT\WebArc\WebArc\GlobalBase\bin\Debug\zh-CHS\Lib.resources.dll
+D:\Irlovan\GIT\WebArc\WebArc\GlobalBase\obj\Debug\Global.csprojResolveAssemblyReference.cache
+D:\Irlovan\GIT\WebArc\WebArc\GlobalBase\obj\Debug\Irlovan.Global.Properties.Resources.resources
+D:\Irlovan\GIT\WebArc\WebArc\GlobalBase\obj\Debug\Irlovan.Global.Properties.Resources.en.resources
+D:\Irlovan\GIT\WebArc\WebArc\GlobalBase\obj\Debug\Irlovan.Global.Properties.Resources.zh-CHS.resources
+D:\Irlovan\GIT\WebArc\WebArc\GlobalBase\obj\Debug\Global.csproj.GenerateResource.Cache
+D:\Irlovan\GIT\WebArc\WebArc\GlobalBase\obj\Debug\en\Global.resources.dll
+D:\Irlovan\GIT\WebArc\WebArc\GlobalBase\obj\Debug\zh-CHS\Global.resources.dll
+D:\Irlovan\GIT\WebArc\WebArc\GlobalBase\obj\Debug\Global.dll
+D:\Irlovan\GIT\WebArc\WebArc\GlobalBase\obj\Debug\Global.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\GlobalBase\bin\Debug\Global.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\GlobalBase\bin\Debug\Global.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\GlobalBase\bin\Debug\en\Global.resources.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\GlobalBase\bin\Debug\zh-CHS\Global.resources.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\GlobalBase\bin\Debug\Control.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\GlobalBase\bin\Debug\Log.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\GlobalBase\bin\Debug\Lib.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\GlobalBase\bin\Debug\DateContainer.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\GlobalBase\bin\Debug\Control.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\GlobalBase\bin\Debug\Log.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\GlobalBase\bin\Debug\Lib.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\GlobalBase\bin\Debug\DateContainer.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\GlobalBase\bin\Debug\en\Lib.resources.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\GlobalBase\bin\Debug\zh-CHS\Lib.resources.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\GlobalBase\obj\Debug\Global.csprojResolveAssemblyReference.cache
+C:\Users\irlovan\Irlovan\Develop\WebArc\GlobalBase\obj\Debug\Irlovan.Global.Properties.Resources.resources
+C:\Users\irlovan\Irlovan\Develop\WebArc\GlobalBase\obj\Debug\Irlovan.Global.Properties.Resources.en.resources
+C:\Users\irlovan\Irlovan\Develop\WebArc\GlobalBase\obj\Debug\Irlovan.Global.Properties.Resources.zh-CHS.resources
+C:\Users\irlovan\Irlovan\Develop\WebArc\GlobalBase\obj\Debug\Global.csproj.GenerateResource.Cache
+C:\Users\irlovan\Irlovan\Develop\WebArc\GlobalBase\obj\Debug\en\Global.resources.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\GlobalBase\obj\Debug\zh-CHS\Global.resources.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\GlobalBase\obj\Debug\Global.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\GlobalBase\obj\Debug\Global.pdb
+C:\Users\irlovan\Desktop\Portview_Source\GlobalBase\bin\Debug\Global.dll
+C:\Users\irlovan\Desktop\Portview_Source\GlobalBase\bin\Debug\Global.pdb
+C:\Users\irlovan\Desktop\Portview_Source\GlobalBase\bin\Debug\en\Global.resources.dll
+C:\Users\irlovan\Desktop\Portview_Source\GlobalBase\bin\Debug\zh-CHS\Global.resources.dll
+C:\Users\irlovan\Desktop\Portview_Source\GlobalBase\bin\Debug\Control.dll
+C:\Users\irlovan\Desktop\Portview_Source\GlobalBase\bin\Debug\Log.dll
+C:\Users\irlovan\Desktop\Portview_Source\GlobalBase\bin\Debug\Lib.dll
+C:\Users\irlovan\Desktop\Portview_Source\GlobalBase\bin\Debug\DateContainer.dll
+C:\Users\irlovan\Desktop\Portview_Source\GlobalBase\bin\Debug\Control.pdb
+C:\Users\irlovan\Desktop\Portview_Source\GlobalBase\bin\Debug\Log.pdb
+C:\Users\irlovan\Desktop\Portview_Source\GlobalBase\bin\Debug\Lib.pdb
+C:\Users\irlovan\Desktop\Portview_Source\GlobalBase\bin\Debug\DateContainer.pdb
+C:\Users\irlovan\Desktop\Portview_Source\GlobalBase\bin\Debug\en\Lib.resources.dll
+C:\Users\irlovan\Desktop\Portview_Source\GlobalBase\bin\Debug\zh-CHS\Lib.resources.dll
+C:\Users\irlovan\Desktop\Portview_Source\GlobalBase\obj\Debug\Global.csprojResolveAssemblyReference.cache
+C:\Users\irlovan\Desktop\Portview_Source\GlobalBase\obj\Debug\Irlovan.Global.Properties.Resources.resources
+C:\Users\irlovan\Desktop\Portview_Source\GlobalBase\obj\Debug\Irlovan.Global.Properties.Resources.en.resources
+C:\Users\irlovan\Desktop\Portview_Source\GlobalBase\obj\Debug\Irlovan.Global.Properties.Resources.zh-CHS.resources
+C:\Users\irlovan\Desktop\Portview_Source\GlobalBase\obj\Debug\Global.csproj.GenerateResource.Cache
+C:\Users\irlovan\Desktop\Portview_Source\GlobalBase\obj\Debug\en\Global.resources.dll
+C:\Users\irlovan\Desktop\Portview_Source\GlobalBase\obj\Debug\zh-CHS\Global.resources.dll
+C:\Users\irlovan\Desktop\Portview_Source\GlobalBase\obj\Debug\Global.dll
+C:\Users\irlovan\Desktop\Portview_Source\GlobalBase\obj\Debug\Global.pdb

@@ -1,0 +1,27 @@
+<Driver>
+
+<OPCClient Name="OPC" ServerName="KEPware.KEPServerEx.V4" ReconnectTimeout="6000">
+
+<Group Name="Test" UpdateRate="50">
+<Data RealtimeDataName="Demo.Analog.A1" Readonly="True"  Addr="Demo.Analog.A1"/>
+<Data RealtimeDataName="Demo.Analog.A2" Readonly="True"  Addr="Demo.Analog.A2"/>
+</Group>
+
+</OPCClient>
+
+<PingClient Name="ETHComm" ReconnectTimeout="5000">
+
+<Group Name="PLC" UpdateRate="3000">
+
+<Data RealtimeDataName="Demo.Alarm.Fault1" Readonly="True" Timeout="2000" SoftMode="True" Addr="165.156.16.61"/>
+<Data RealtimeDataName="Demo.Alarm.Fault2" Readonly="True" Timeout="2000" SoftMode="True" Addr="165.156.16.62"/>
+
+</Group>
+
+</PingClient>
+
+</Driver>
+
+
+
+

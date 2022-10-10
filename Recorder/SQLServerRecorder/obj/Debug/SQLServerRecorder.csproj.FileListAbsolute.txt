@@ -1,0 +1,340 @@
+E:\WebArchitecture\SQLServerRecorder\obj\Debug\SQLServerRecorder.csprojResolveAssemblyReference.cache
+E:\WebArchitecture\SQLServerRecorder\bin\Debug\SQLServerRecorder.dll
+E:\WebArchitecture\SQLServerRecorder\bin\Debug\SQLServerRecorder.pdb
+E:\WebArchitecture\SQLServerRecorder\bin\Debug\Global.dll
+E:\WebArchitecture\SQLServerRecorder\bin\Debug\Helper.dll
+E:\WebArchitecture\SQLServerRecorder\bin\Debug\log4net.dll
+E:\WebArchitecture\SQLServerRecorder\bin\Debug\RealtimeDatabase.dll
+E:\WebArchitecture\SQLServerRecorder\bin\Debug\Recorder.dll
+E:\WebArchitecture\SQLServerRecorder\bin\Debug\SuperSocket.SocketBase.dll
+E:\WebArchitecture\SQLServerRecorder\bin\Debug\SuperWebSocket.dll
+E:\WebArchitecture\SQLServerRecorder\bin\Debug\SuperSocket.SocketEngine.dll
+E:\WebArchitecture\SQLServerRecorder\bin\Debug\SuperSocket.Common.dll
+E:\WebArchitecture\SQLServerRecorder\bin\Debug\Global.pdb
+E:\WebArchitecture\SQLServerRecorder\bin\Debug\Helper.pdb
+E:\WebArchitecture\SQLServerRecorder\bin\Debug\RealtimeDatabase.pdb
+E:\WebArchitecture\SQLServerRecorder\bin\Debug\Recorder.pdb
+E:\WebArchitecture\SQLServerRecorder\bin\Debug\en\Global.resources.dll
+E:\WebArchitecture\SQLServerRecorder\bin\Debug\zh-CHS\Global.resources.dll
+E:\WebArchitecture\SQLServerRecorder\obj\Debug\SQLServerRecorder.dll
+E:\WebArchitecture\SQLServerRecorder\obj\Debug\SQLServerRecorder.pdb
+E:\WebArchitecture\SQLServerRecorder\bin\Debug\Control.dll
+E:\WebArchitecture\SQLServerRecorder\bin\Debug\Control.pdb
+E:\WebArchitecture\SQLServerRecorder\bin\Debug\Log.dll
+E:\WebArchitecture\SQLServerRecorder\bin\Debug\Log.pdb
+C:\WebArchitecture\SQLServerRecorder\bin\Debug\SQLServerRecorder.dll
+C:\WebArchitecture\SQLServerRecorder\bin\Debug\SQLServerRecorder.pdb
+C:\WebArchitecture\SQLServerRecorder\bin\Debug\Global.dll
+C:\WebArchitecture\SQLServerRecorder\bin\Debug\Helper.dll
+C:\WebArchitecture\SQLServerRecorder\bin\Debug\Log.dll
+C:\WebArchitecture\SQLServerRecorder\bin\Debug\log4net.dll
+C:\WebArchitecture\SQLServerRecorder\bin\Debug\Recorder.dll
+C:\WebArchitecture\SQLServerRecorder\bin\Debug\Control.dll
+C:\WebArchitecture\SQLServerRecorder\bin\Debug\Global.pdb
+C:\WebArchitecture\SQLServerRecorder\bin\Debug\Helper.pdb
+C:\WebArchitecture\SQLServerRecorder\bin\Debug\Log.pdb
+C:\WebArchitecture\SQLServerRecorder\bin\Debug\Recorder.pdb
+C:\WebArchitecture\SQLServerRecorder\bin\Debug\Control.pdb
+C:\WebArchitecture\SQLServerRecorder\obj\Debug\SQLServerRecorder.dll
+C:\WebArchitecture\SQLServerRecorder\obj\Debug\SQLServerRecorder.pdb
+C:\WebArchitecture\SQLServerRecorder\bin\Debug\Database.dll
+C:\WebArchitecture\SQLServerRecorder\bin\Debug\Database.pdb
+C:\WebArchitecture\SQLServerRecorder\obj\Debug\SQLServerRecorder.csprojResolveAssemblyReference.cache
+C:\WebArchitecture\SQLServerRecorder\bin\Debug\Message.dll
+C:\WebArchitecture\SQLServerRecorder\bin\Debug\Message.pdb
+C:\WebArchitecture\SQLServerRecorder\bin\Debug\GlobalBase.dll
+C:\WebArchitecture\SQLServerRecorder\bin\Debug\GlobalBase.pdb
+C:\WebArchitecture\SQLServerRecorder\bin\Debug\en\GlobalBase.resources.dll
+C:\WebArchitecture\SQLServerRecorder\bin\Debug\zh-CHS\GlobalBase.resources.dll
+C:\WebArchitecture\SQLServerRecorder\bin\Debug\Register.dll
+C:\WebArchitecture\SQLServerRecorder\bin\Debug\Register.pdb
+C:\WebArchitecture\SQLServerRecorder\bin\Debug\DataQuality.dll
+C:\WebArchitecture\SQLServerRecorder\bin\Debug\DataQuality.pdb
+C:\WebArchitecture\SQLServerRecorder\bin\Debug\Lib.dll
+C:\WebArchitecture\SQLServerRecorder\bin\Debug\SuperSocket.SocketBase.dll
+C:\WebArchitecture\SQLServerRecorder\bin\Debug\SuperWebSocket.dll
+C:\WebArchitecture\SQLServerRecorder\bin\Debug\SuperSocket.SocketEngine.dll
+C:\WebArchitecture\SQLServerRecorder\bin\Debug\SuperSocket.Common.dll
+C:\WebArchitecture\SQLServerRecorder\bin\Debug\Lib.pdb
+C:\Irlovan\MySoftware\WebArchitecture\SQLServerRecorder\bin\Debug\SQLServerRecorder.dll
+C:\Irlovan\MySoftware\WebArchitecture\SQLServerRecorder\bin\Debug\SQLServerRecorder.pdb
+C:\Irlovan\MySoftware\WebArchitecture\SQLServerRecorder\bin\Debug\Database.dll
+C:\Irlovan\MySoftware\WebArchitecture\SQLServerRecorder\bin\Debug\DataQuality.dll
+C:\Irlovan\MySoftware\WebArchitecture\SQLServerRecorder\bin\Debug\Global.dll
+C:\Irlovan\MySoftware\WebArchitecture\SQLServerRecorder\bin\Debug\GlobalBase.dll
+C:\Irlovan\MySoftware\WebArchitecture\SQLServerRecorder\bin\Debug\Helper.dll
+C:\Irlovan\MySoftware\WebArchitecture\SQLServerRecorder\bin\Debug\Lib.dll
+C:\Irlovan\MySoftware\WebArchitecture\SQLServerRecorder\bin\Debug\Log.dll
+C:\Irlovan\MySoftware\WebArchitecture\SQLServerRecorder\bin\Debug\log4net.dll
+C:\Irlovan\MySoftware\WebArchitecture\SQLServerRecorder\bin\Debug\Message.dll
+C:\Irlovan\MySoftware\WebArchitecture\SQLServerRecorder\bin\Debug\Recorder.dll
+C:\Irlovan\MySoftware\WebArchitecture\SQLServerRecorder\bin\Debug\Register.dll
+C:\Irlovan\MySoftware\WebArchitecture\SQLServerRecorder\bin\Debug\Control.dll
+C:\Irlovan\MySoftware\WebArchitecture\SQLServerRecorder\bin\Debug\SuperSocket.SocketBase.dll
+C:\Irlovan\MySoftware\WebArchitecture\SQLServerRecorder\bin\Debug\SuperWebSocket.dll
+C:\Irlovan\MySoftware\WebArchitecture\SQLServerRecorder\bin\Debug\SuperSocket.SocketEngine.dll
+C:\Irlovan\MySoftware\WebArchitecture\SQLServerRecorder\bin\Debug\SuperSocket.Common.dll
+C:\Irlovan\MySoftware\WebArchitecture\SQLServerRecorder\bin\Debug\DataQuality.pdb
+C:\Irlovan\MySoftware\WebArchitecture\SQLServerRecorder\bin\Debug\GlobalBase.pdb
+C:\Irlovan\MySoftware\WebArchitecture\SQLServerRecorder\bin\Debug\Global.pdb
+C:\Irlovan\MySoftware\WebArchitecture\SQLServerRecorder\bin\Debug\Helper.pdb
+C:\Irlovan\MySoftware\WebArchitecture\SQLServerRecorder\bin\Debug\Lib.pdb
+C:\Irlovan\MySoftware\WebArchitecture\SQLServerRecorder\bin\Debug\Log.pdb
+C:\Irlovan\MySoftware\WebArchitecture\SQLServerRecorder\bin\Debug\Message.pdb
+C:\Irlovan\MySoftware\WebArchitecture\SQLServerRecorder\bin\Debug\Database.pdb
+C:\Irlovan\MySoftware\WebArchitecture\SQLServerRecorder\bin\Debug\Recorder.pdb
+C:\Irlovan\MySoftware\WebArchitecture\SQLServerRecorder\bin\Debug\Register.pdb
+C:\Irlovan\MySoftware\WebArchitecture\SQLServerRecorder\bin\Debug\Control.pdb
+C:\Irlovan\MySoftware\WebArchitecture\SQLServerRecorder\bin\Debug\en\GlobalBase.resources.dll
+C:\Irlovan\MySoftware\WebArchitecture\SQLServerRecorder\bin\Debug\zh-CHS\GlobalBase.resources.dll
+C:\Irlovan\MySoftware\WebArchitecture\SQLServerRecorder\obj\Debug\SQLServerRecorder.csprojResolveAssemblyReference.cache
+C:\Irlovan\MySoftware\WebArchitecture\SQLServerRecorder\obj\Debug\SQLServerRecorder.dll
+C:\Irlovan\MySoftware\WebArchitecture\SQLServerRecorder\obj\Debug\SQLServerRecorder.pdb
+C:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\SQLServerRecorder.dll
+C:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\SQLServerRecorder.pdb
+C:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\Database.dll
+C:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\DataQuality.dll
+C:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\Global.dll
+C:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\GlobalBase.dll
+C:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\Helper.dll
+C:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\Lib.dll
+C:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\Log.dll
+C:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\log4net.dll
+C:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\Message.dll
+C:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\Recorder.dll
+C:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\Register.dll
+C:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\Control.dll
+C:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\SuperSocket.SocketBase.dll
+C:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\SuperWebSocket.dll
+C:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\SuperSocket.SocketEngine.dll
+C:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\SuperSocket.Common.dll
+C:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\DataQuality.pdb
+C:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\GlobalBase.pdb
+C:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\Global.pdb
+C:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\Helper.pdb
+C:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\Lib.pdb
+C:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\Log.pdb
+C:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\Message.pdb
+C:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\Database.pdb
+C:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\Recorder.pdb
+C:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\Register.pdb
+C:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\Control.pdb
+C:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\en\GlobalBase.resources.dll
+C:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\zh-CHS\GlobalBase.resources.dll
+C:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\obj\Debug\SQLServerRecorder.csprojResolveAssemblyReference.cache
+C:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\obj\Debug\SQLServerRecorder.dll
+C:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\obj\Debug\SQLServerRecorder.pdb
+D:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\SQLServerRecorder.dll
+D:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\SQLServerRecorder.pdb
+D:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\DataQuality.dll
+D:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\Global.dll
+D:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\Lib.dll
+D:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\Log.dll
+D:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\Message.dll
+D:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\Recorder.dll
+D:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\Control.dll
+D:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\DataQuality.pdb
+D:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\Global.pdb
+D:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\Lib.pdb
+D:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\Log.pdb
+D:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\Message.pdb
+D:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\Recorder.pdb
+D:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\Control.pdb
+D:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\obj\Debug\SQLServerRecorder.dll
+D:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\obj\Debug\SQLServerRecorder.pdb
+D:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\RTDB.dll
+D:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\RTDB.pdb
+D:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\DateContainer.dll
+D:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\DateContainer.pdb
+D:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\en\Global.resources.dll
+D:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\zh-CHS\Global.resources.dll
+D:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\en\Lib.resources.dll
+D:\Irlovan\Wine\WebArchitecture\SQLServerRecorder\bin\Debug\zh-CHS\Lib.resources.dll
+D:\Irlovan\GIT\WebArc\SQLServerRecorder\bin\Debug\SQLServerRecorder.dll
+D:\Irlovan\GIT\WebArc\SQLServerRecorder\bin\Debug\SQLServerRecorder.pdb
+D:\Irlovan\GIT\WebArc\SQLServerRecorder\bin\Debug\DataQuality.dll
+D:\Irlovan\GIT\WebArc\SQLServerRecorder\bin\Debug\Global.dll
+D:\Irlovan\GIT\WebArc\SQLServerRecorder\bin\Debug\Lib.dll
+D:\Irlovan\GIT\WebArc\SQLServerRecorder\bin\Debug\Log.dll
+D:\Irlovan\GIT\WebArc\SQLServerRecorder\bin\Debug\Message.dll
+D:\Irlovan\GIT\WebArc\SQLServerRecorder\bin\Debug\Recorder.dll
+D:\Irlovan\GIT\WebArc\SQLServerRecorder\bin\Debug\RTDB.dll
+D:\Irlovan\GIT\WebArc\SQLServerRecorder\bin\Debug\Control.dll
+D:\Irlovan\GIT\WebArc\SQLServerRecorder\bin\Debug\DateContainer.dll
+D:\Irlovan\GIT\WebArc\SQLServerRecorder\bin\Debug\DataQuality.pdb
+D:\Irlovan\GIT\WebArc\SQLServerRecorder\bin\Debug\Global.pdb
+D:\Irlovan\GIT\WebArc\SQLServerRecorder\bin\Debug\Lib.pdb
+D:\Irlovan\GIT\WebArc\SQLServerRecorder\bin\Debug\Log.pdb
+D:\Irlovan\GIT\WebArc\SQLServerRecorder\bin\Debug\Message.pdb
+D:\Irlovan\GIT\WebArc\SQLServerRecorder\bin\Debug\RTDB.pdb
+D:\Irlovan\GIT\WebArc\SQLServerRecorder\bin\Debug\Recorder.pdb
+D:\Irlovan\GIT\WebArc\SQLServerRecorder\bin\Debug\Control.pdb
+D:\Irlovan\GIT\WebArc\SQLServerRecorder\bin\Debug\DateContainer.pdb
+D:\Irlovan\GIT\WebArc\SQLServerRecorder\bin\Debug\en\Global.resources.dll
+D:\Irlovan\GIT\WebArc\SQLServerRecorder\bin\Debug\zh-CHS\Global.resources.dll
+D:\Irlovan\GIT\WebArc\SQLServerRecorder\bin\Debug\en\Lib.resources.dll
+D:\Irlovan\GIT\WebArc\SQLServerRecorder\bin\Debug\zh-CHS\Lib.resources.dll
+D:\Irlovan\GIT\WebArc\SQLServerRecorder\obj\Debug\SQLServerRecorder.dll
+D:\Irlovan\GIT\WebArc\SQLServerRecorder\obj\Debug\SQLServerRecorder.pdb
+D:\Irlovan Cloud\GIT\WebArc\SQLServerRecorder\bin\Debug\SQLServerRecorder.dll
+D:\Irlovan Cloud\GIT\WebArc\SQLServerRecorder\bin\Debug\SQLServerRecorder.pdb
+D:\Irlovan Cloud\GIT\WebArc\SQLServerRecorder\bin\Debug\DataQuality.dll
+D:\Irlovan Cloud\GIT\WebArc\SQLServerRecorder\bin\Debug\Global.dll
+D:\Irlovan Cloud\GIT\WebArc\SQLServerRecorder\bin\Debug\Lib.dll
+D:\Irlovan Cloud\GIT\WebArc\SQLServerRecorder\bin\Debug\Log.dll
+D:\Irlovan Cloud\GIT\WebArc\SQLServerRecorder\bin\Debug\Message.dll
+D:\Irlovan Cloud\GIT\WebArc\SQLServerRecorder\bin\Debug\Recorder.dll
+D:\Irlovan Cloud\GIT\WebArc\SQLServerRecorder\bin\Debug\RTDB.dll
+D:\Irlovan Cloud\GIT\WebArc\SQLServerRecorder\bin\Debug\Control.dll
+D:\Irlovan Cloud\GIT\WebArc\SQLServerRecorder\bin\Debug\DateContainer.dll
+D:\Irlovan Cloud\GIT\WebArc\SQLServerRecorder\bin\Debug\DataQuality.pdb
+D:\Irlovan Cloud\GIT\WebArc\SQLServerRecorder\bin\Debug\Global.pdb
+D:\Irlovan Cloud\GIT\WebArc\SQLServerRecorder\bin\Debug\Lib.pdb
+D:\Irlovan Cloud\GIT\WebArc\SQLServerRecorder\bin\Debug\Log.pdb
+D:\Irlovan Cloud\GIT\WebArc\SQLServerRecorder\bin\Debug\Message.pdb
+D:\Irlovan Cloud\GIT\WebArc\SQLServerRecorder\bin\Debug\RTDB.pdb
+D:\Irlovan Cloud\GIT\WebArc\SQLServerRecorder\bin\Debug\Recorder.pdb
+D:\Irlovan Cloud\GIT\WebArc\SQLServerRecorder\bin\Debug\Control.pdb
+D:\Irlovan Cloud\GIT\WebArc\SQLServerRecorder\bin\Debug\DateContainer.pdb
+D:\Irlovan Cloud\GIT\WebArc\SQLServerRecorder\bin\Debug\en\Global.resources.dll
+D:\Irlovan Cloud\GIT\WebArc\SQLServerRecorder\bin\Debug\zh-CHS\Global.resources.dll
+D:\Irlovan Cloud\GIT\WebArc\SQLServerRecorder\bin\Debug\en\Lib.resources.dll
+D:\Irlovan Cloud\GIT\WebArc\SQLServerRecorder\bin\Debug\zh-CHS\Lib.resources.dll
+D:\Irlovan Cloud\GIT\WebArc\SQLServerRecorder\obj\Debug\SQLServerRecorder.dll
+D:\Irlovan Cloud\GIT\WebArc\SQLServerRecorder\obj\Debug\SQLServerRecorder.pdb
+D:\Irlovan Cloud\GIT\WebArc\SQLServerRecorder\obj\Debug\SQLServerRecorder.csprojResolveAssemblyReference.cache
+D:\Irlovan Cloud\GIT\WebArc\Recorder\SQLServerRecorder\bin\Debug\SQLServerRecorder.dll
+D:\Irlovan Cloud\GIT\WebArc\Recorder\SQLServerRecorder\bin\Debug\SQLServerRecorder.pdb
+D:\Irlovan Cloud\GIT\WebArc\Recorder\SQLServerRecorder\bin\Debug\DataQuality.dll
+D:\Irlovan Cloud\GIT\WebArc\Recorder\SQLServerRecorder\bin\Debug\Global.dll
+D:\Irlovan Cloud\GIT\WebArc\Recorder\SQLServerRecorder\bin\Debug\Lib.dll
+D:\Irlovan Cloud\GIT\WebArc\Recorder\SQLServerRecorder\bin\Debug\Log.dll
+D:\Irlovan Cloud\GIT\WebArc\Recorder\SQLServerRecorder\bin\Debug\Message.dll
+D:\Irlovan Cloud\GIT\WebArc\Recorder\SQLServerRecorder\bin\Debug\Recorder.dll
+D:\Irlovan Cloud\GIT\WebArc\Recorder\SQLServerRecorder\bin\Debug\RTDB.dll
+D:\Irlovan Cloud\GIT\WebArc\Recorder\SQLServerRecorder\bin\Debug\Control.dll
+D:\Irlovan Cloud\GIT\WebArc\Recorder\SQLServerRecorder\bin\Debug\DateContainer.dll
+D:\Irlovan Cloud\GIT\WebArc\Recorder\SQLServerRecorder\bin\Debug\DataQuality.pdb
+D:\Irlovan Cloud\GIT\WebArc\Recorder\SQLServerRecorder\bin\Debug\Global.pdb
+D:\Irlovan Cloud\GIT\WebArc\Recorder\SQLServerRecorder\bin\Debug\Lib.pdb
+D:\Irlovan Cloud\GIT\WebArc\Recorder\SQLServerRecorder\bin\Debug\Log.pdb
+D:\Irlovan Cloud\GIT\WebArc\Recorder\SQLServerRecorder\bin\Debug\Message.pdb
+D:\Irlovan Cloud\GIT\WebArc\Recorder\SQLServerRecorder\bin\Debug\RTDB.pdb
+D:\Irlovan Cloud\GIT\WebArc\Recorder\SQLServerRecorder\bin\Debug\Recorder.pdb
+D:\Irlovan Cloud\GIT\WebArc\Recorder\SQLServerRecorder\bin\Debug\Control.pdb
+D:\Irlovan Cloud\GIT\WebArc\Recorder\SQLServerRecorder\bin\Debug\DateContainer.pdb
+D:\Irlovan Cloud\GIT\WebArc\Recorder\SQLServerRecorder\bin\Debug\en\Global.resources.dll
+D:\Irlovan Cloud\GIT\WebArc\Recorder\SQLServerRecorder\bin\Debug\zh-CHS\Global.resources.dll
+D:\Irlovan Cloud\GIT\WebArc\Recorder\SQLServerRecorder\bin\Debug\en\Lib.resources.dll
+D:\Irlovan Cloud\GIT\WebArc\Recorder\SQLServerRecorder\bin\Debug\zh-CHS\Lib.resources.dll
+D:\Irlovan Cloud\GIT\WebArc\Recorder\SQLServerRecorder\obj\Debug\SQLServerRecorder.dll
+D:\Irlovan Cloud\GIT\WebArc\Recorder\SQLServerRecorder\obj\Debug\SQLServerRecorder.pdb
+D:\Irlovan Cloud\GIT\WebArc\Recorder\SQLServerRecorder\obj\Debug\SQLServerRecorder.csprojResolveAssemblyReference.cache
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\SQLServerRecorder\bin\Debug\SQLServerRecorder.dll
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\SQLServerRecorder\bin\Debug\SQLServerRecorder.pdb
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\SQLServerRecorder\bin\Debug\DataQuality.dll
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\SQLServerRecorder\bin\Debug\Global.dll
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\SQLServerRecorder\bin\Debug\Lib.dll
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\SQLServerRecorder\bin\Debug\Log.dll
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\SQLServerRecorder\bin\Debug\Message.dll
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\SQLServerRecorder\bin\Debug\Recorder.dll
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\SQLServerRecorder\bin\Debug\RTDB.dll
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\SQLServerRecorder\bin\Debug\Control.dll
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\SQLServerRecorder\bin\Debug\DateContainer.dll
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\SQLServerRecorder\bin\Debug\DataQuality.pdb
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\SQLServerRecorder\bin\Debug\Global.pdb
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\SQLServerRecorder\bin\Debug\Lib.pdb
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\SQLServerRecorder\bin\Debug\Log.pdb
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\SQLServerRecorder\bin\Debug\Message.pdb
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\SQLServerRecorder\bin\Debug\RTDB.pdb
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\SQLServerRecorder\bin\Debug\Recorder.pdb
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\SQLServerRecorder\bin\Debug\Control.pdb
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\SQLServerRecorder\bin\Debug\DateContainer.pdb
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\SQLServerRecorder\bin\Debug\en\Global.resources.dll
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\SQLServerRecorder\bin\Debug\zh-CHS\Global.resources.dll
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\SQLServerRecorder\bin\Debug\en\Lib.resources.dll
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\SQLServerRecorder\bin\Debug\zh-CHS\Lib.resources.dll
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\SQLServerRecorder\obj\Debug\SQLServerRecorder.csprojResolveAssemblyReference.cache
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\SQLServerRecorder\obj\Debug\SQLServerRecorder.dll
+D:\Irlovan\GIT\WebArc\WebArc\Recorder\SQLServerRecorder\obj\Debug\SQLServerRecorder.pdb
+D:\Irlovan\GIT\WebArc\Recorder\SQLServerRecorder\bin\Debug\SQLServerRecorder.dll
+D:\Irlovan\GIT\WebArc\Recorder\SQLServerRecorder\bin\Debug\SQLServerRecorder.pdb
+D:\Irlovan\GIT\WebArc\Recorder\SQLServerRecorder\bin\Debug\DataQuality.dll
+D:\Irlovan\GIT\WebArc\Recorder\SQLServerRecorder\bin\Debug\Global.dll
+D:\Irlovan\GIT\WebArc\Recorder\SQLServerRecorder\bin\Debug\Lib.dll
+D:\Irlovan\GIT\WebArc\Recorder\SQLServerRecorder\bin\Debug\Log.dll
+D:\Irlovan\GIT\WebArc\Recorder\SQLServerRecorder\bin\Debug\Message.dll
+D:\Irlovan\GIT\WebArc\Recorder\SQLServerRecorder\bin\Debug\Recorder.dll
+D:\Irlovan\GIT\WebArc\Recorder\SQLServerRecorder\bin\Debug\RTDB.dll
+D:\Irlovan\GIT\WebArc\Recorder\SQLServerRecorder\bin\Debug\Control.dll
+D:\Irlovan\GIT\WebArc\Recorder\SQLServerRecorder\bin\Debug\DateContainer.dll
+D:\Irlovan\GIT\WebArc\Recorder\SQLServerRecorder\bin\Debug\DataQuality.pdb
+D:\Irlovan\GIT\WebArc\Recorder\SQLServerRecorder\bin\Debug\Global.pdb
+D:\Irlovan\GIT\WebArc\Recorder\SQLServerRecorder\bin\Debug\Lib.pdb
+D:\Irlovan\GIT\WebArc\Recorder\SQLServerRecorder\bin\Debug\Log.pdb
+D:\Irlovan\GIT\WebArc\Recorder\SQLServerRecorder\bin\Debug\Message.pdb
+D:\Irlovan\GIT\WebArc\Recorder\SQLServerRecorder\bin\Debug\RTDB.pdb
+D:\Irlovan\GIT\WebArc\Recorder\SQLServerRecorder\bin\Debug\Recorder.pdb
+D:\Irlovan\GIT\WebArc\Recorder\SQLServerRecorder\bin\Debug\Control.pdb
+D:\Irlovan\GIT\WebArc\Recorder\SQLServerRecorder\bin\Debug\DateContainer.pdb
+D:\Irlovan\GIT\WebArc\Recorder\SQLServerRecorder\bin\Debug\en\Global.resources.dll
+D:\Irlovan\GIT\WebArc\Recorder\SQLServerRecorder\bin\Debug\zh-CHS\Global.resources.dll
+D:\Irlovan\GIT\WebArc\Recorder\SQLServerRecorder\bin\Debug\en\Lib.resources.dll
+D:\Irlovan\GIT\WebArc\Recorder\SQLServerRecorder\bin\Debug\zh-CHS\Lib.resources.dll
+D:\Irlovan\GIT\WebArc\Recorder\SQLServerRecorder\obj\Debug\SQLServerRecorder.csprojResolveAssemblyReference.cache
+D:\Irlovan\GIT\WebArc\Recorder\SQLServerRecorder\obj\Debug\SQLServerRecorder.dll
+D:\Irlovan\GIT\WebArc\Recorder\SQLServerRecorder\obj\Debug\SQLServerRecorder.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\SQLServerRecorder\bin\Debug\SQLServerRecorder.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\SQLServerRecorder\bin\Debug\SQLServerRecorder.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\SQLServerRecorder\bin\Debug\DataQuality.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\SQLServerRecorder\bin\Debug\Global.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\SQLServerRecorder\bin\Debug\Lib.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\SQLServerRecorder\bin\Debug\Log.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\SQLServerRecorder\bin\Debug\Message.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\SQLServerRecorder\bin\Debug\Recorder.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\SQLServerRecorder\bin\Debug\RTDB.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\SQLServerRecorder\bin\Debug\Control.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\SQLServerRecorder\bin\Debug\DateContainer.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\SQLServerRecorder\bin\Debug\DataQuality.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\SQLServerRecorder\bin\Debug\Global.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\SQLServerRecorder\bin\Debug\Lib.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\SQLServerRecorder\bin\Debug\Log.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\SQLServerRecorder\bin\Debug\Message.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\SQLServerRecorder\bin\Debug\RTDB.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\SQLServerRecorder\bin\Debug\Recorder.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\SQLServerRecorder\bin\Debug\Control.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\SQLServerRecorder\bin\Debug\DateContainer.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\SQLServerRecorder\bin\Debug\en\Global.resources.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\SQLServerRecorder\bin\Debug\zh-CHS\Global.resources.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\SQLServerRecorder\bin\Debug\en\Lib.resources.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\SQLServerRecorder\bin\Debug\zh-CHS\Lib.resources.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\SQLServerRecorder\obj\Debug\SQLServerRecorder.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\SQLServerRecorder\obj\Debug\SQLServerRecorder.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\Recorder\SQLServerRecorder\obj\Debug\SQLServerRecorder.csprojResolveAssemblyReference.cache
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\SQLServerRecorder\bin\Debug\SQLServerRecorder.dll
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\SQLServerRecorder\bin\Debug\SQLServerRecorder.pdb
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\SQLServerRecorder\bin\Debug\DataQuality.dll
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\SQLServerRecorder\bin\Debug\Global.dll
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\SQLServerRecorder\bin\Debug\Lib.dll
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\SQLServerRecorder\bin\Debug\Log.dll
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\SQLServerRecorder\bin\Debug\Message.dll
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\SQLServerRecorder\bin\Debug\Recorder.dll
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\SQLServerRecorder\bin\Debug\RTDB.dll
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\SQLServerRecorder\bin\Debug\Control.dll
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\SQLServerRecorder\bin\Debug\DateContainer.dll
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\SQLServerRecorder\bin\Debug\DataQuality.pdb
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\SQLServerRecorder\bin\Debug\Global.pdb
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\SQLServerRecorder\bin\Debug\Lib.pdb
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\SQLServerRecorder\bin\Debug\Log.pdb
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\SQLServerRecorder\bin\Debug\Message.pdb
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\SQLServerRecorder\bin\Debug\RTDB.pdb
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\SQLServerRecorder\bin\Debug\Recorder.pdb
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\SQLServerRecorder\bin\Debug\Control.pdb
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\SQLServerRecorder\bin\Debug\DateContainer.pdb
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\SQLServerRecorder\bin\Debug\en\Global.resources.dll
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\SQLServerRecorder\bin\Debug\zh-CHS\Global.resources.dll
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\SQLServerRecorder\bin\Debug\en\Lib.resources.dll
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\SQLServerRecorder\bin\Debug\zh-CHS\Lib.resources.dll
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\SQLServerRecorder\obj\Debug\SQLServerRecorder.csprojResolveAssemblyReference.cache
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\SQLServerRecorder\obj\Debug\SQLServerRecorder.dll
+C:\Users\irlovan\Desktop\Portview_Source\Recorder\SQLServerRecorder\obj\Debug\SQLServerRecorder.pdb

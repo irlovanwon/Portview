@@ -1,0 +1,16 @@
+E:\WebArchitecture\NoticeWindow\bin\Debug\NoticeWindow.pdb
+E:\WebArchitecture\NoticeWindow\bin\Debug\Global.dll
+E:\WebArchitecture\NoticeWindow\bin\Debug\log4net.dll
+E:\WebArchitecture\NoticeWindow\bin\Debug\Global.pdb
+E:\WebArchitecture\NoticeWindow\bin\Debug\en\Global.resources.dll
+E:\WebArchitecture\NoticeWindow\bin\Debug\zh-CHS\Global.resources.dll
+E:\WebArchitecture\NoticeWindow\obj\Debug\NoticeWindow.csprojResolveAssemblyReference.cache
+E:\WebArchitecture\NoticeWindow\obj\Debug\NoticeWindow.baml
+E:\WebArchitecture\NoticeWindow\obj\Debug\NoticeWindow.g.cs
+E:\WebArchitecture\NoticeWindow\obj\Debug\NoticeWindow_MarkupCompile.cache
+E:\WebArchitecture\NoticeWindow\obj\Debug\NoticeWindow.g.resources
+E:\WebArchitecture\NoticeWindow\obj\Debug\Irlovan.NoticeWindow.Properties.Resources.resources
+E:\WebArchitecture\NoticeWindow\obj\Debug\NoticeWindow.csproj.GenerateResource.Cache
+E:\WebArchitecture\NoticeWindow\obj\Debug\NoticeWindow.pdb
+E:\WebArchitecture\NoticeWindow\bin\Debug\NoticeWindow.dll
+E:\WebArchitecture\NoticeWindow\obj\Debug\NoticeWindow.dll

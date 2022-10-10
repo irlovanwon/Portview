@@ -1,0 +1,250 @@
+E:\WebArchitecture\DotNetFrameworkScript\obj\Debug\DotNetFrameworkScript.csprojResolveAssemblyReference.cache
+E:\WebArchitecture\DotNetFrameworkScript\bin\Debug\DotNetFrameworkScript.dll
+E:\WebArchitecture\DotNetFrameworkScript\bin\Debug\DotNetFrameworkScript.pdb
+E:\WebArchitecture\DotNetFrameworkScript\bin\Debug\Global.dll
+E:\WebArchitecture\DotNetFrameworkScript\bin\Debug\log4net.dll
+E:\WebArchitecture\DotNetFrameworkScript\bin\Debug\SuperSocket.SocketBase.dll
+E:\WebArchitecture\DotNetFrameworkScript\bin\Debug\SuperWebSocket.dll
+E:\WebArchitecture\DotNetFrameworkScript\bin\Debug\SuperSocket.SocketEngine.dll
+E:\WebArchitecture\DotNetFrameworkScript\bin\Debug\SuperSocket.Common.dll
+E:\WebArchitecture\DotNetFrameworkScript\bin\Debug\Global.pdb
+E:\WebArchitecture\DotNetFrameworkScript\bin\Debug\en\Global.resources.dll
+E:\WebArchitecture\DotNetFrameworkScript\bin\Debug\zh-CHS\Global.resources.dll
+E:\WebArchitecture\DotNetFrameworkScript\obj\Debug\DotNetFrameworkScript.dll
+E:\WebArchitecture\DotNetFrameworkScript\obj\Debug\DotNetFrameworkScript.pdb
+E:\WebArchitecture\DotNetFrameworkScript\bin\Debug\RealtimeDatabase.dll
+E:\WebArchitecture\DotNetFrameworkScript\bin\Debug\Helper.dll
+E:\WebArchitecture\DotNetFrameworkScript\bin\Debug\RealtimeDatabase.pdb
+E:\WebArchitecture\DotNetFrameworkScript\bin\Debug\Helper.pdb
+E:\WebArchitecture\DotNetFrameworkScript\bin\Debug\Control.dll
+E:\WebArchitecture\DotNetFrameworkScript\bin\Debug\Control.pdb
+E:\WebArchitecture\DotNetFrameworkScript\bin\Debug\Log.dll
+E:\WebArchitecture\DotNetFrameworkScript\bin\Debug\Log.pdb
+C:\WebArchitecture\DotNetFrameworkScript\bin\Debug\DotNetFrameworkScript.dll
+C:\WebArchitecture\DotNetFrameworkScript\bin\Debug\DotNetFrameworkScript.pdb
+C:\WebArchitecture\DotNetFrameworkScript\bin\Debug\Global.dll
+C:\WebArchitecture\DotNetFrameworkScript\bin\Debug\Log.dll
+C:\WebArchitecture\DotNetFrameworkScript\bin\Debug\log4net.dll
+C:\WebArchitecture\DotNetFrameworkScript\bin\Debug\Helper.dll
+C:\WebArchitecture\DotNetFrameworkScript\bin\Debug\Control.dll
+C:\WebArchitecture\DotNetFrameworkScript\bin\Debug\Global.pdb
+C:\WebArchitecture\DotNetFrameworkScript\bin\Debug\Log.pdb
+C:\WebArchitecture\DotNetFrameworkScript\bin\Debug\Helper.pdb
+C:\WebArchitecture\DotNetFrameworkScript\bin\Debug\Control.pdb
+C:\WebArchitecture\DotNetFrameworkScript\obj\Debug\DotNetFrameworkScript.csprojResolveAssemblyReference.cache
+C:\WebArchitecture\DotNetFrameworkScript\obj\Debug\DotNetFrameworkScript.dll
+C:\WebArchitecture\DotNetFrameworkScript\obj\Debug\DotNetFrameworkScript.pdb
+C:\WebArchitecture\DotNetFrameworkScript\bin\Debug\Database.dll
+C:\WebArchitecture\DotNetFrameworkScript\bin\Debug\Database.pdb
+C:\WebArchitecture\DotNetFrameworkScript\bin\Debug\Message.dll
+C:\WebArchitecture\DotNetFrameworkScript\bin\Debug\Message.pdb
+C:\WebArchitecture\DotNetFrameworkScript\bin\Debug\GlobalBase.dll
+C:\WebArchitecture\DotNetFrameworkScript\bin\Debug\GlobalBase.pdb
+C:\WebArchitecture\DotNetFrameworkScript\bin\Debug\en\GlobalBase.resources.dll
+C:\WebArchitecture\DotNetFrameworkScript\bin\Debug\zh-CHS\GlobalBase.resources.dll
+C:\WebArchitecture\DotNetFrameworkScript\bin\Debug\Register.dll
+C:\WebArchitecture\DotNetFrameworkScript\bin\Debug\Register.pdb
+C:\WebArchitecture\DotNetFrameworkScript\bin\Debug\DataQuality.dll
+C:\WebArchitecture\DotNetFrameworkScript\bin\Debug\DataQuality.pdb
+C:\Irlovan\MySoftware\WebArchitecture\DotNetFrameworkScript\bin\Debug\DotNetFrameworkScript.dll
+C:\Irlovan\MySoftware\WebArchitecture\DotNetFrameworkScript\bin\Debug\DotNetFrameworkScript.pdb
+C:\Irlovan\MySoftware\WebArchitecture\DotNetFrameworkScript\bin\Debug\Database.dll
+C:\Irlovan\MySoftware\WebArchitecture\DotNetFrameworkScript\bin\Debug\Global.dll
+C:\Irlovan\MySoftware\WebArchitecture\DotNetFrameworkScript\bin\Debug\GlobalBase.dll
+C:\Irlovan\MySoftware\WebArchitecture\DotNetFrameworkScript\bin\Debug\Log.dll
+C:\Irlovan\MySoftware\WebArchitecture\DotNetFrameworkScript\bin\Debug\log4net.dll
+C:\Irlovan\MySoftware\WebArchitecture\DotNetFrameworkScript\bin\Debug\Register.dll
+C:\Irlovan\MySoftware\WebArchitecture\DotNetFrameworkScript\bin\Debug\Message.dll
+C:\Irlovan\MySoftware\WebArchitecture\DotNetFrameworkScript\bin\Debug\DataQuality.dll
+C:\Irlovan\MySoftware\WebArchitecture\DotNetFrameworkScript\bin\Debug\Helper.dll
+C:\Irlovan\MySoftware\WebArchitecture\DotNetFrameworkScript\bin\Debug\Control.dll
+C:\Irlovan\MySoftware\WebArchitecture\DotNetFrameworkScript\bin\Debug\GlobalBase.pdb
+C:\Irlovan\MySoftware\WebArchitecture\DotNetFrameworkScript\bin\Debug\Global.pdb
+C:\Irlovan\MySoftware\WebArchitecture\DotNetFrameworkScript\bin\Debug\Log.pdb
+C:\Irlovan\MySoftware\WebArchitecture\DotNetFrameworkScript\bin\Debug\Database.pdb
+C:\Irlovan\MySoftware\WebArchitecture\DotNetFrameworkScript\bin\Debug\Register.pdb
+C:\Irlovan\MySoftware\WebArchitecture\DotNetFrameworkScript\bin\Debug\Message.pdb
+C:\Irlovan\MySoftware\WebArchitecture\DotNetFrameworkScript\bin\Debug\DataQuality.pdb
+C:\Irlovan\MySoftware\WebArchitecture\DotNetFrameworkScript\bin\Debug\Helper.pdb
+C:\Irlovan\MySoftware\WebArchitecture\DotNetFrameworkScript\bin\Debug\Control.pdb
+C:\Irlovan\MySoftware\WebArchitecture\DotNetFrameworkScript\bin\Debug\en\GlobalBase.resources.dll
+C:\Irlovan\MySoftware\WebArchitecture\DotNetFrameworkScript\bin\Debug\zh-CHS\GlobalBase.resources.dll
+C:\Irlovan\MySoftware\WebArchitecture\DotNetFrameworkScript\obj\Debug\DotNetFrameworkScript.csprojResolveAssemblyReference.cache
+C:\Irlovan\MySoftware\WebArchitecture\DotNetFrameworkScript\obj\Debug\DotNetFrameworkScript.dll
+C:\Irlovan\MySoftware\WebArchitecture\DotNetFrameworkScript\obj\Debug\DotNetFrameworkScript.pdb
+C:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\bin\Debug\DotNetFrameworkScript.dll
+C:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\bin\Debug\DotNetFrameworkScript.pdb
+C:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\bin\Debug\Database.dll
+C:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\bin\Debug\Global.dll
+C:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\bin\Debug\GlobalBase.dll
+C:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\bin\Debug\Log.dll
+C:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\bin\Debug\log4net.dll
+C:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\bin\Debug\Register.dll
+C:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\bin\Debug\Message.dll
+C:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\bin\Debug\DataQuality.dll
+C:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\bin\Debug\Helper.dll
+C:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\bin\Debug\Control.dll
+C:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\bin\Debug\GlobalBase.pdb
+C:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\bin\Debug\Global.pdb
+C:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\bin\Debug\Log.pdb
+C:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\bin\Debug\Database.pdb
+C:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\bin\Debug\Register.pdb
+C:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\bin\Debug\Message.pdb
+C:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\bin\Debug\DataQuality.pdb
+C:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\bin\Debug\Helper.pdb
+C:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\bin\Debug\Control.pdb
+C:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\bin\Debug\en\GlobalBase.resources.dll
+C:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\bin\Debug\zh-CHS\GlobalBase.resources.dll
+C:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\obj\Debug\DotNetFrameworkScript.csprojResolveAssemblyReference.cache
+C:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\obj\Debug\DotNetFrameworkScript.dll
+C:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\obj\Debug\DotNetFrameworkScript.pdb
+D:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\bin\Debug\DotNetFrameworkScript.dll
+D:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\bin\Debug\DotNetFrameworkScript.pdb
+D:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\bin\Debug\Global.dll
+D:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\bin\Debug\Log.dll
+D:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\bin\Debug\Message.dll
+D:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\bin\Debug\DataQuality.dll
+D:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\bin\Debug\Control.dll
+D:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\bin\Debug\Global.pdb
+D:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\bin\Debug\Log.pdb
+D:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\bin\Debug\Message.pdb
+D:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\bin\Debug\DataQuality.pdb
+D:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\bin\Debug\Control.pdb
+D:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\obj\Debug\DotNetFrameworkScript.csprojResolveAssemblyReference.cache
+D:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\obj\Debug\DotNetFrameworkScript.dll
+D:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\obj\Debug\DotNetFrameworkScript.pdb
+D:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\bin\Debug\RTDB.dll
+D:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\bin\Debug\RTDB.pdb
+D:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\bin\Debug\Lib.dll
+D:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\bin\Debug\DateContainer.dll
+D:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\bin\Debug\Lib.pdb
+D:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\bin\Debug\DateContainer.pdb
+D:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\bin\Debug\en\Global.resources.dll
+D:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\bin\Debug\zh-CHS\Global.resources.dll
+D:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\bin\Debug\en\Lib.resources.dll
+D:\Irlovan\Wine\WebArchitecture\DotNetFrameworkScript\bin\Debug\zh-CHS\Lib.resources.dll
+D:\Irlovan\GIT\WebArc\DotNetFrameworkScript\bin\Debug\DotNetFrameworkScript.dll
+D:\Irlovan\GIT\WebArc\DotNetFrameworkScript\bin\Debug\DotNetFrameworkScript.pdb
+D:\Irlovan\GIT\WebArc\DotNetFrameworkScript\bin\Debug\Global.dll
+D:\Irlovan\GIT\WebArc\DotNetFrameworkScript\bin\Debug\Lib.dll
+D:\Irlovan\GIT\WebArc\DotNetFrameworkScript\bin\Debug\Log.dll
+D:\Irlovan\GIT\WebArc\DotNetFrameworkScript\bin\Debug\RTDB.dll
+D:\Irlovan\GIT\WebArc\DotNetFrameworkScript\bin\Debug\Control.dll
+D:\Irlovan\GIT\WebArc\DotNetFrameworkScript\bin\Debug\DateContainer.dll
+D:\Irlovan\GIT\WebArc\DotNetFrameworkScript\bin\Debug\DataQuality.dll
+D:\Irlovan\GIT\WebArc\DotNetFrameworkScript\bin\Debug\Message.dll
+D:\Irlovan\GIT\WebArc\DotNetFrameworkScript\bin\Debug\Global.pdb
+D:\Irlovan\GIT\WebArc\DotNetFrameworkScript\bin\Debug\Lib.pdb
+D:\Irlovan\GIT\WebArc\DotNetFrameworkScript\bin\Debug\Log.pdb
+D:\Irlovan\GIT\WebArc\DotNetFrameworkScript\bin\Debug\RTDB.pdb
+D:\Irlovan\GIT\WebArc\DotNetFrameworkScript\bin\Debug\Control.pdb
+D:\Irlovan\GIT\WebArc\DotNetFrameworkScript\bin\Debug\DateContainer.pdb
+D:\Irlovan\GIT\WebArc\DotNetFrameworkScript\bin\Debug\DataQuality.pdb
+D:\Irlovan\GIT\WebArc\DotNetFrameworkScript\bin\Debug\Message.pdb
+D:\Irlovan\GIT\WebArc\DotNetFrameworkScript\bin\Debug\en\Global.resources.dll
+D:\Irlovan\GIT\WebArc\DotNetFrameworkScript\bin\Debug\zh-CHS\Global.resources.dll
+D:\Irlovan\GIT\WebArc\DotNetFrameworkScript\bin\Debug\en\Lib.resources.dll
+D:\Irlovan\GIT\WebArc\DotNetFrameworkScript\bin\Debug\zh-CHS\Lib.resources.dll
+D:\Irlovan\GIT\WebArc\DotNetFrameworkScript\obj\Debug\DotNetFrameworkScript.dll
+D:\Irlovan\GIT\WebArc\DotNetFrameworkScript\obj\Debug\DotNetFrameworkScript.pdb
+D:\Irlovan\GIT\WebArc\DotNetFrameworkScript\obj\Debug\DotNetFrameworkScript.csprojResolveAssemblyReference.cache
+D:\Irlovan Cloud\GIT\WebArc\DotNetFrameworkScript\bin\Debug\DotNetFrameworkScript.dll
+D:\Irlovan Cloud\GIT\WebArc\DotNetFrameworkScript\bin\Debug\DotNetFrameworkScript.pdb
+D:\Irlovan Cloud\GIT\WebArc\DotNetFrameworkScript\bin\Debug\Global.dll
+D:\Irlovan Cloud\GIT\WebArc\DotNetFrameworkScript\bin\Debug\Lib.dll
+D:\Irlovan Cloud\GIT\WebArc\DotNetFrameworkScript\bin\Debug\Log.dll
+D:\Irlovan Cloud\GIT\WebArc\DotNetFrameworkScript\bin\Debug\RTDB.dll
+D:\Irlovan Cloud\GIT\WebArc\DotNetFrameworkScript\bin\Debug\Control.dll
+D:\Irlovan Cloud\GIT\WebArc\DotNetFrameworkScript\bin\Debug\DateContainer.dll
+D:\Irlovan Cloud\GIT\WebArc\DotNetFrameworkScript\bin\Debug\Message.dll
+D:\Irlovan Cloud\GIT\WebArc\DotNetFrameworkScript\bin\Debug\DataQuality.dll
+D:\Irlovan Cloud\GIT\WebArc\DotNetFrameworkScript\bin\Debug\Global.pdb
+D:\Irlovan Cloud\GIT\WebArc\DotNetFrameworkScript\bin\Debug\Lib.pdb
+D:\Irlovan Cloud\GIT\WebArc\DotNetFrameworkScript\bin\Debug\Log.pdb
+D:\Irlovan Cloud\GIT\WebArc\DotNetFrameworkScript\bin\Debug\RTDB.pdb
+D:\Irlovan Cloud\GIT\WebArc\DotNetFrameworkScript\bin\Debug\Control.pdb
+D:\Irlovan Cloud\GIT\WebArc\DotNetFrameworkScript\bin\Debug\DateContainer.pdb
+D:\Irlovan Cloud\GIT\WebArc\DotNetFrameworkScript\bin\Debug\Message.pdb
+D:\Irlovan Cloud\GIT\WebArc\DotNetFrameworkScript\bin\Debug\DataQuality.pdb
+D:\Irlovan Cloud\GIT\WebArc\DotNetFrameworkScript\bin\Debug\en\Global.resources.dll
+D:\Irlovan Cloud\GIT\WebArc\DotNetFrameworkScript\bin\Debug\zh-CHS\Global.resources.dll
+D:\Irlovan Cloud\GIT\WebArc\DotNetFrameworkScript\bin\Debug\en\Lib.resources.dll
+D:\Irlovan Cloud\GIT\WebArc\DotNetFrameworkScript\bin\Debug\zh-CHS\Lib.resources.dll
+D:\Irlovan Cloud\GIT\WebArc\DotNetFrameworkScript\obj\Debug\DotNetFrameworkScript.dll
+D:\Irlovan Cloud\GIT\WebArc\DotNetFrameworkScript\obj\Debug\DotNetFrameworkScript.pdb
+D:\Irlovan Cloud\GIT\WebArc\DotNetFrameworkScript\obj\Debug\DotNetFrameworkScript.csprojResolveAssemblyReference.cache
+D:\Irlovan\GIT\WebArc\WebArc\DotNetFrameworkScript\bin\Debug\DotNetFrameworkScript.dll
+D:\Irlovan\GIT\WebArc\WebArc\DotNetFrameworkScript\bin\Debug\DotNetFrameworkScript.pdb
+D:\Irlovan\GIT\WebArc\WebArc\DotNetFrameworkScript\bin\Debug\Global.dll
+D:\Irlovan\GIT\WebArc\WebArc\DotNetFrameworkScript\bin\Debug\Lib.dll
+D:\Irlovan\GIT\WebArc\WebArc\DotNetFrameworkScript\bin\Debug\Log.dll
+D:\Irlovan\GIT\WebArc\WebArc\DotNetFrameworkScript\bin\Debug\RTDB.dll
+D:\Irlovan\GIT\WebArc\WebArc\DotNetFrameworkScript\bin\Debug\Control.dll
+D:\Irlovan\GIT\WebArc\WebArc\DotNetFrameworkScript\bin\Debug\DateContainer.dll
+D:\Irlovan\GIT\WebArc\WebArc\DotNetFrameworkScript\bin\Debug\Message.dll
+D:\Irlovan\GIT\WebArc\WebArc\DotNetFrameworkScript\bin\Debug\DataQuality.dll
+D:\Irlovan\GIT\WebArc\WebArc\DotNetFrameworkScript\bin\Debug\Global.pdb
+D:\Irlovan\GIT\WebArc\WebArc\DotNetFrameworkScript\bin\Debug\Lib.pdb
+D:\Irlovan\GIT\WebArc\WebArc\DotNetFrameworkScript\bin\Debug\Log.pdb
+D:\Irlovan\GIT\WebArc\WebArc\DotNetFrameworkScript\bin\Debug\RTDB.pdb
+D:\Irlovan\GIT\WebArc\WebArc\DotNetFrameworkScript\bin\Debug\Control.pdb
+D:\Irlovan\GIT\WebArc\WebArc\DotNetFrameworkScript\bin\Debug\DateContainer.pdb
+D:\Irlovan\GIT\WebArc\WebArc\DotNetFrameworkScript\bin\Debug\Message.pdb
+D:\Irlovan\GIT\WebArc\WebArc\DotNetFrameworkScript\bin\Debug\DataQuality.pdb
+D:\Irlovan\GIT\WebArc\WebArc\DotNetFrameworkScript\bin\Debug\en\Global.resources.dll
+D:\Irlovan\GIT\WebArc\WebArc\DotNetFrameworkScript\bin\Debug\zh-CHS\Global.resources.dll
+D:\Irlovan\GIT\WebArc\WebArc\DotNetFrameworkScript\bin\Debug\en\Lib.resources.dll
+D:\Irlovan\GIT\WebArc\WebArc\DotNetFrameworkScript\bin\Debug\zh-CHS\Lib.resources.dll
+D:\Irlovan\GIT\WebArc\WebArc\DotNetFrameworkScript\obj\Debug\DotNetFrameworkScript.csprojResolveAssemblyReference.cache
+D:\Irlovan\GIT\WebArc\WebArc\DotNetFrameworkScript\obj\Debug\DotNetFrameworkScript.dll
+D:\Irlovan\GIT\WebArc\WebArc\DotNetFrameworkScript\obj\Debug\DotNetFrameworkScript.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\DotNetFrameworkScript\bin\Debug\DotNetFrameworkScript.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\DotNetFrameworkScript\bin\Debug\DotNetFrameworkScript.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\DotNetFrameworkScript\bin\Debug\Global.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\DotNetFrameworkScript\bin\Debug\Lib.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\DotNetFrameworkScript\bin\Debug\Log.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\DotNetFrameworkScript\bin\Debug\RTDB.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\DotNetFrameworkScript\bin\Debug\Control.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\DotNetFrameworkScript\bin\Debug\DateContainer.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\DotNetFrameworkScript\bin\Debug\Message.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\DotNetFrameworkScript\bin\Debug\DataQuality.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\DotNetFrameworkScript\bin\Debug\Global.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\DotNetFrameworkScript\bin\Debug\Lib.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\DotNetFrameworkScript\bin\Debug\Log.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\DotNetFrameworkScript\bin\Debug\RTDB.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\DotNetFrameworkScript\bin\Debug\Control.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\DotNetFrameworkScript\bin\Debug\DateContainer.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\DotNetFrameworkScript\bin\Debug\Message.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\DotNetFrameworkScript\bin\Debug\DataQuality.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\DotNetFrameworkScript\bin\Debug\en\Global.resources.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\DotNetFrameworkScript\bin\Debug\zh-CHS\Global.resources.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\DotNetFrameworkScript\bin\Debug\en\Lib.resources.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\DotNetFrameworkScript\bin\Debug\zh-CHS\Lib.resources.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\DotNetFrameworkScript\obj\Debug\DotNetFrameworkScript.csprojResolveAssemblyReference.cache
+C:\Users\irlovan\Irlovan\Develop\WebArc\DotNetFrameworkScript\obj\Debug\DotNetFrameworkScript.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\DotNetFrameworkScript\obj\Debug\DotNetFrameworkScript.pdb
+C:\Users\irlovan\Desktop\Portview_Source\DotNetFrameworkScript\bin\Debug\DotNetFrameworkScript.dll
+C:\Users\irlovan\Desktop\Portview_Source\DotNetFrameworkScript\bin\Debug\DotNetFrameworkScript.pdb
+C:\Users\irlovan\Desktop\Portview_Source\DotNetFrameworkScript\bin\Debug\Global.dll
+C:\Users\irlovan\Desktop\Portview_Source\DotNetFrameworkScript\bin\Debug\Lib.dll
+C:\Users\irlovan\Desktop\Portview_Source\DotNetFrameworkScript\bin\Debug\Log.dll
+C:\Users\irlovan\Desktop\Portview_Source\DotNetFrameworkScript\bin\Debug\RTDB.dll
+C:\Users\irlovan\Desktop\Portview_Source\DotNetFrameworkScript\bin\Debug\Control.dll
+C:\Users\irlovan\Desktop\Portview_Source\DotNetFrameworkScript\bin\Debug\DateContainer.dll
+C:\Users\irlovan\Desktop\Portview_Source\DotNetFrameworkScript\bin\Debug\Message.dll
+C:\Users\irlovan\Desktop\Portview_Source\DotNetFrameworkScript\bin\Debug\DataQuality.dll
+C:\Users\irlovan\Desktop\Portview_Source\DotNetFrameworkScript\bin\Debug\Global.pdb
+C:\Users\irlovan\Desktop\Portview_Source\DotNetFrameworkScript\bin\Debug\Lib.pdb
+C:\Users\irlovan\Desktop\Portview_Source\DotNetFrameworkScript\bin\Debug\Log.pdb
+C:\Users\irlovan\Desktop\Portview_Source\DotNetFrameworkScript\bin\Debug\RTDB.pdb
+C:\Users\irlovan\Desktop\Portview_Source\DotNetFrameworkScript\bin\Debug\Control.pdb
+C:\Users\irlovan\Desktop\Portview_Source\DotNetFrameworkScript\bin\Debug\DateContainer.pdb
+C:\Users\irlovan\Desktop\Portview_Source\DotNetFrameworkScript\bin\Debug\Message.pdb
+C:\Users\irlovan\Desktop\Portview_Source\DotNetFrameworkScript\bin\Debug\DataQuality.pdb
+C:\Users\irlovan\Desktop\Portview_Source\DotNetFrameworkScript\bin\Debug\en\Global.resources.dll
+C:\Users\irlovan\Desktop\Portview_Source\DotNetFrameworkScript\bin\Debug\zh-CHS\Global.resources.dll
+C:\Users\irlovan\Desktop\Portview_Source\DotNetFrameworkScript\bin\Debug\en\Lib.resources.dll
+C:\Users\irlovan\Desktop\Portview_Source\DotNetFrameworkScript\bin\Debug\zh-CHS\Lib.resources.dll
+C:\Users\irlovan\Desktop\Portview_Source\DotNetFrameworkScript\obj\Debug\DotNetFrameworkScript.csprojResolveAssemblyReference.cache
+C:\Users\irlovan\Desktop\Portview_Source\DotNetFrameworkScript\obj\Debug\DotNetFrameworkScript.dll
+C:\Users\irlovan\Desktop\Portview_Source\DotNetFrameworkScript\obj\Debug\DotNetFrameworkScript.pdb

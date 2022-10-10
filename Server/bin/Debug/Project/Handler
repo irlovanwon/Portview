@@ -1,0 +1,7 @@
+<Handler>
+<Item Name="MessageHandler"/>
+<Item Name="LoginHandler"/>
+<Item Name="SQLHandler"/>
+<Item Name="GUIHandler"/>
+<Item Name="NotificationHandler"/>
+</Handler>

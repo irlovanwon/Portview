@@ -1,0 +1,11 @@
+E:\WebArchitecture\OPCTest\bin\Debug\RealtimeDatabase.dll
+E:\WebArchitecture\OPCTest\bin\Debug\RealtimeDatabase.pdb
+E:\WebArchitecture\OPCTest\obj\Debug\OPCTest.csprojResolveAssemblyReference.cache
+E:\WebArchitecture\OPCTest\bin\Debug\opc.exe
+E:\WebArchitecture\OPCTest\bin\Debug\opc.pdb
+E:\WebArchitecture\OPCTest\obj\Debug\opc.exe
+E:\WebArchitecture\OPCTest\obj\Debug\opc.pdb
+E:\WebArchitecture\OPCTest\bin\Debug\Driver.dll
+E:\WebArchitecture\OPCTest\bin\Debug\Helper.dll
+E:\WebArchitecture\OPCTest\bin\Debug\Driver.pdb
+E:\WebArchitecture\OPCTest\bin\Debug\Helper.pdb

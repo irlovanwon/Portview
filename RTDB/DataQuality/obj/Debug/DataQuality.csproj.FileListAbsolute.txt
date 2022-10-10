@@ -1,0 +1,46 @@
+C:\WebArchitecture\DataQuality\bin\Debug\DataQuality.dll
+C:\WebArchitecture\DataQuality\bin\Debug\DataQuality.pdb
+C:\WebArchitecture\DataQuality\obj\Debug\DataQuality.dll
+C:\WebArchitecture\DataQuality\obj\Debug\DataQuality.pdb
+C:\Irlovan\MySoftware\WebArchitecture\DataQuality\bin\Debug\DataQuality.dll
+C:\Irlovan\MySoftware\WebArchitecture\DataQuality\bin\Debug\DataQuality.pdb
+C:\Irlovan\MySoftware\WebArchitecture\DataQuality\obj\Debug\DataQuality.csprojResolveAssemblyReference.cache
+C:\Irlovan\MySoftware\WebArchitecture\DataQuality\obj\Debug\DataQuality.dll
+C:\Irlovan\MySoftware\WebArchitecture\DataQuality\obj\Debug\DataQuality.pdb
+C:\Irlovan\Wine\WebArchitecture\DataQuality\bin\Debug\DataQuality.dll
+C:\Irlovan\Wine\WebArchitecture\DataQuality\bin\Debug\DataQuality.pdb
+C:\Irlovan\Wine\WebArchitecture\DataQuality\obj\Debug\DataQuality.dll
+C:\Irlovan\Wine\WebArchitecture\DataQuality\obj\Debug\DataQuality.pdb
+D:\Irlovan\Wine\WebArchitecture\DataQuality\bin\Debug\DataQuality.dll
+D:\Irlovan\Wine\WebArchitecture\DataQuality\bin\Debug\DataQuality.pdb
+D:\Irlovan\Wine\WebArchitecture\DataQuality\obj\Debug\DataQuality.dll
+D:\Irlovan\Wine\WebArchitecture\DataQuality\obj\Debug\DataQuality.pdb
+D:\Irlovan\GIT\WebArc\DataQuality\bin\Debug\DataQuality.dll
+D:\Irlovan\GIT\WebArc\DataQuality\bin\Debug\DataQuality.pdb
+D:\Irlovan\GIT\WebArc\DataQuality\obj\Debug\DataQuality.dll
+D:\Irlovan\GIT\WebArc\DataQuality\obj\Debug\DataQuality.pdb
+D:\Irlovan Cloud\GIT\WebArc\DataQuality\bin\Debug\DataQuality.dll
+D:\Irlovan Cloud\GIT\WebArc\DataQuality\bin\Debug\DataQuality.pdb
+D:\Irlovan Cloud\GIT\WebArc\DataQuality\obj\Debug\DataQuality.dll
+D:\Irlovan Cloud\GIT\WebArc\DataQuality\obj\Debug\DataQuality.pdb
+D:\Irlovan Cloud\GIT\WebArc\DataQuality\obj\Debug\DataQuality.csprojResolveAssemblyReference.cache
+D:\Irlovan Cloud\GIT\WebArc\RTDB\DataQuality\bin\Debug\DataQuality.dll
+D:\Irlovan Cloud\GIT\WebArc\RTDB\DataQuality\bin\Debug\DataQuality.pdb
+D:\Irlovan Cloud\GIT\WebArc\RTDB\DataQuality\obj\Debug\DataQuality.dll
+D:\Irlovan Cloud\GIT\WebArc\RTDB\DataQuality\obj\Debug\DataQuality.pdb
+D:\Irlovan\GIT\WebArc\WebArc\RTDB\DataQuality\bin\Debug\DataQuality.dll
+D:\Irlovan\GIT\WebArc\WebArc\RTDB\DataQuality\bin\Debug\DataQuality.pdb
+D:\Irlovan\GIT\WebArc\WebArc\RTDB\DataQuality\obj\Debug\DataQuality.dll
+D:\Irlovan\GIT\WebArc\WebArc\RTDB\DataQuality\obj\Debug\DataQuality.pdb
+D:\Irlovan\GIT\WebArc\RTDB\DataQuality\bin\Debug\DataQuality.dll
+D:\Irlovan\GIT\WebArc\RTDB\DataQuality\bin\Debug\DataQuality.pdb
+D:\Irlovan\GIT\WebArc\RTDB\DataQuality\obj\Debug\DataQuality.dll
+D:\Irlovan\GIT\WebArc\RTDB\DataQuality\obj\Debug\DataQuality.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\RTDB\DataQuality\bin\Debug\DataQuality.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\RTDB\DataQuality\bin\Debug\DataQuality.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\RTDB\DataQuality\obj\Debug\DataQuality.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\RTDB\DataQuality\obj\Debug\DataQuality.pdb
+C:\Users\irlovan\Desktop\Portview_Source\RTDB\DataQuality\bin\Debug\DataQuality.dll
+C:\Users\irlovan\Desktop\Portview_Source\RTDB\DataQuality\bin\Debug\DataQuality.pdb
+C:\Users\irlovan\Desktop\Portview_Source\RTDB\DataQuality\obj\Debug\DataQuality.dll
+C:\Users\irlovan\Desktop\Portview_Source\RTDB\DataQuality\obj\Debug\DataQuality.pdb

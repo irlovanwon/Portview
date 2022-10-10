@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3E368A74-0EDC-490C-8080-B964643A217F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Irlovan.Notification.EventNotification</RootNamespace>
+    <AssemblyName>EventNotification</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="EventFactory.cs" />
+    <Compile Include="EventNotification.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\RTDB\DataQuality\DataQuality.csproj">
+      <Project>{6ab71305-3554-404f-a62b-465c561db44c}</Project>
+      <Name>DataQuality</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\RTDB\RTDB\RTDB.csproj">
+      <Project>{6604470b-31ac-480a-8ac5-a52a1ee76da0}</Project>
+      <Name>RTDB</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\GlobalBase\Global.csproj">
+      <Project>{724744de-ef00-437d-839b-20cdc7355fe6}</Project>
+      <Name>Global</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Lib\Lib.csproj">
+      <Project>{85b232d0-2cb4-46a4-8fe4-7194eba66930}</Project>
+      <Name>Lib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Log\Log.csproj">
+      <Project>{041c15cc-a686-470b-8061-32d8b67e46fd}</Project>
+      <Name>Log</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Message\Message.csproj">
+      <Project>{a0f5e504-8fab-4741-aa1c-cf65c35af96e}</Project>
+      <Name>Message</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Notification\Notification.csproj">
+      <Project>{cb9a4a79-25d5-4370-b35d-122d780a97d0}</Project>
+      <Name>Notification</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Register\Register.csproj">
+      <Project>{05fe54a8-12b9-4d73-b994-2ac37fe67ce7}</Project>
+      <Name>Register</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

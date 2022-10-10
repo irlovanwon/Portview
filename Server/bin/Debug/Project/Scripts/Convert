@@ -1,0 +1,105 @@
+using Irlovan.RealtimeDatabase;
+using System;
+using System.Timers;
+
+namespace Irlovan
+{
+    public class Convert
+    {
+
+
+        #region Structure
+
+        public Convert(Catalog source) {
+            Timer timer;
+            SetInterval(500, (object o,ElapsedEventArgs e) => {
+                //*****************T4S3_1
+                ConvertMeterIME96(source, "T4S3_1", "IME31", "VCB1");
+                ConvertMeterIME96(source, "T4S3_1", "IME32", "VCB2");
+                ConvertMeterIME96(source, "T4S3_1", "IME33", "VCB3");
+                ConvertMeterIME96(source, "T4S3_1", "IME34", "VCB4");
+                ConvertMeterIME96(source, "T4S3_1", "IME35", "VCB5");
+                ConvertMeterIME96(source, "T4S3_1", "IME36", "VCB6");
+                ConvertMeterIME96(source, "T4S3_1", "IME37", "VCB7");
+                ConvertMeterIME96(source, "T4S3_1", "IME38", "VCB8");
+                ConvertMeterWM14_96(source, "T4S3_1", "WM39", "VCB9");
+                ConvertMeterWM14_96(source, "T4S3_1", "WM40", "VCB10");
+
+            }, out timer);
+        }
+
+        #endregion Structure
+
+        #region Field
+
+        #endregion Field
+
+        #region Property
+        #endregion Property
+
+        #region Delegate
+        #endregion Delegate
+
+        #region Event
+        #endregion Event
+
+        #region Function
+
+        private static void SetInterval(int interval, Action<object, ElapsedEventArgs> action, out System.Timers.Timer timer) {
+            timer = new System.Timers.Timer();
+            timer.Elapsed += new ElapsedEventHandler(action);
+            timer.Interval = interval;
+            timer.Enabled = true;
+        }
+
+        /// <summary>
+        /// Convert a appointed meter
+        /// </summary>
+        /// <param name="source"></param>
+        /// <param name="stationName"></param>
+        /// <param name="meterName"></param>
+        /// <param name="ioName"></param>
+        private void ConvertMeterIME96(Catalog source, string stationName, string meterName, string ioName) {
+            try {
+                source.AcquireData("HIT.Convert."+stationName +"."+ meterName + "_ERR").ReadValue(source.AcquireData("HIT." + stationName + ".COMMUNICATION." + meterName + "_ERR").Value ? "Offline" : "Online");
+                source.AcquireData("HIT.Convert."+stationName +"."+ ioName + "_CS").ReadValue(source.AcquireData("HIT." + stationName + ".IO." + ioName + "_CS").Value ? "Close" : "--");
+                source.AcquireData("HIT.Convert."+stationName +"."+ ioName + "_OS").ReadValue(source.AcquireData("HIT." + stationName + ".IO." + ioName + "_OS").Value ? "Open" : "--");
+                source.AcquireData("HIT.Convert."+stationName +"."+ ioName + "_TS").ReadValue(source.AcquireData("HIT." + stationName + ".IO." + ioName + "_TS").Value ? "Trip" : "Normal");
+                source.AcquireData("HIT.Convert."+stationName +"."+ meterName + "_ACTP").ReadValue((source.AcquireData("HIT." + stationName + "." + meterName + "." + meterName + "_SAP").Value ? 1 : -1) * source.AcquireData("HIT." + stationName + "." + meterName + "." + meterName + "_ACTP").Value);
+                source.AcquireData("HIT.Convert."+stationName +"."+ meterName + "_RECTP").ReadValue((source.AcquireData("HIT." + stationName + "." + meterName + "." + meterName + "_SRP").Value ? 1 : -1) * source.AcquireData("HIT." + stationName + "." + meterName + "." + meterName + "_RECTP").Value);
+                source.AcquireData("HIT.Convert."+stationName +"."+ meterName + "_APPP").ReadValue(source.AcquireData("HIT." + stationName + "." + meterName + "." + meterName + "_APPP").Value);
+                source.AcquireData("HIT.Convert."+stationName +"."+ meterName + "_PF").ReadValue((source.AcquireData("HIT." + stationName + "." + meterName + "." + meterName + "_SPF").Value ? 1 : -1) * source.AcquireData("HIT." + stationName + "." + meterName + "." + meterName + "_PF").Value);
+                source.AcquireData("HIT.Convert."+stationName +"."+ meterName + "_PMD").ReadValue(source.AcquireData("HIT." + stationName + "." + meterName + "." + meterName + "_PMD").Value);
+                source.AcquireData("HIT.Convert."+stationName +"."+ meterName + "_FREQ").ReadValue(source.AcquireData("HIT." + stationName + "." + meterName + "." + meterName + "_FREQ").Value);
+                source.AcquireData("HIT.Convert."+stationName +"."+ meterName + "_PAE").ReadValue(source.AcquireData("HIT." + stationName + "." + meterName + "." + meterName + "_PAE").Value);
+            } catch{
+                return;
+            }
+        }
+
+        private void ConvertMeterWM14_96(Catalog source, string stationName, string meterName, string ioName) {
+            try {
+                source.AcquireData("HIT.Convert."+stationName+"." + meterName + "_ERR").ReadValue(source.AcquireData("HIT." + stationName + ".COMMUNICATION." + meterName + "_ERR").Value ? "Offline" : "Online");
+                source.AcquireData("HIT.Convert."+stationName+"." + ioName + "_CS").ReadValue(source.AcquireData("HIT." + stationName + ".IO." + ioName + "_CS").Value ? "Close" : "--");
+                source.AcquireData("HIT.Convert."+stationName+"." + ioName + "_OS").ReadValue(source.AcquireData("HIT." + stationName + ".IO." + ioName + "_OS").Value ? "Open" : "--");
+                source.AcquireData("HIT.Convert."+stationName+"." + ioName + "_TS").ReadValue(source.AcquireData("HIT." + stationName + ".IO." + ioName + "_TS").Value ? "Trip" : "Normal");
+                source.AcquireData("HIT.Convert."+stationName+"." + meterName + "_W_E").ReadValue(source.AcquireData("HIT." + stationName + "." + meterName + "." + meterName + "_W_E").Value);
+                source.AcquireData("HIT.Convert." + stationName + "." + meterName + "_VAR_E").ReadValue(source.AcquireData("HIT." + stationName + "." + meterName + "." + meterName + "_VAR_E").Value);
+                source.AcquireData("HIT.Convert." + stationName + "." + meterName + "_VA_E").ReadValue(source.AcquireData("HIT." + stationName + "." + meterName + "." + meterName + "_VA_E").Value);
+                source.AcquireData("HIT.Convert." + stationName + "." + meterName + "_PF_E").ReadValue(source.AcquireData("HIT." + stationName + "." + meterName + "." + meterName + "_PF_E").Value);
+                source.AcquireData("HIT.Convert." + stationName + "." + meterName + "_VA_MAX_DMD").ReadValue(source.AcquireData("HIT." + stationName + "." + meterName + "." + meterName + "_VA_MAX_DMD").Value);
+                source.AcquireData("HIT.Convert." + stationName + "." + meterName + "_HZ").ReadValue(source.AcquireData("HIT." + stationName + "." + meterName + "." + meterName + "_HZ").Value);
+                source.AcquireData("HIT.Convert." + stationName + "." + meterName + "_KWH_TOT").ReadValue(source.AcquireData("HIT." + stationName + "." + meterName + "." + meterName + "_KWH_TOT").Value);
+            } catch {
+                return;
+            }
+        }
+
+
+        #endregion Function
+
+        #region InterClass
+        #endregion InterClass
+
+    }
+}

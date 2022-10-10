@@ -1,0 +1,28 @@
+D:\Irlovan\Wine\WebArchitecture\Canal\bin\Debug\Canal.dll
+D:\Irlovan\Wine\WebArchitecture\Canal\bin\Debug\Canal.pdb
+D:\Irlovan\Wine\WebArchitecture\Canal\obj\Debug\Canal.dll
+D:\Irlovan\Wine\WebArchitecture\Canal\obj\Debug\Canal.pdb
+D:\Irlovan\Wine\WebArchitecture\Canal\obj\Debug\Canal.csprojResolveAssemblyReference.cache
+D:\Irlovan\GIT\WebArc\Canal\bin\Debug\Canal.dll
+D:\Irlovan\GIT\WebArc\Canal\bin\Debug\Canal.pdb
+D:\Irlovan\GIT\WebArc\Canal\obj\Debug\Canal.dll
+D:\Irlovan\GIT\WebArc\Canal\obj\Debug\Canal.pdb
+D:\Irlovan Cloud\GIT\WebArc\Canal\bin\Debug\Canal.dll
+D:\Irlovan Cloud\GIT\WebArc\Canal\bin\Debug\Canal.pdb
+D:\Irlovan Cloud\GIT\WebArc\Canal\obj\Debug\Canal.dll
+D:\Irlovan Cloud\GIT\WebArc\Canal\obj\Debug\Canal.pdb
+D:\Irlovan Cloud\GIT\WebArc\Canal\obj\Debug\Canal.csprojResolveAssemblyReference.cache
+D:\Irlovan\GIT\WebArc\WebArc\Canal\bin\Debug\Canal.dll
+D:\Irlovan\GIT\WebArc\WebArc\Canal\bin\Debug\Canal.pdb
+D:\Irlovan\GIT\WebArc\WebArc\Canal\obj\Debug\Canal.dll
+D:\Irlovan\GIT\WebArc\WebArc\Canal\obj\Debug\Canal.pdb
+D:\Irlovan\GIT\WebArc\WebArc\Canal\obj\Debug\Canal.csprojResolveAssemblyReference.cache
+C:\Users\irlovan\Irlovan\Develop\WebArc\Canal\bin\Debug\Canal.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\Canal\bin\Debug\Canal.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\Canal\obj\Debug\Canal.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\Canal\obj\Debug\Canal.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\Canal\obj\Debug\Canal.csprojResolveAssemblyReference.cache
+C:\Users\irlovan\Desktop\Portview_Source\Canal\bin\Debug\Canal.dll
+C:\Users\irlovan\Desktop\Portview_Source\Canal\bin\Debug\Canal.pdb
+C:\Users\irlovan\Desktop\Portview_Source\Canal\obj\Debug\Canal.dll
+C:\Users\irlovan\Desktop\Portview_Source\Canal\obj\Debug\Canal.pdb

@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{566918B9-4682-40B5-AE4C-7FBA6681410E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Irlovan.Driver</RootNamespace>
+    <AssemblyName>ModbusETH</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FtdAdapter">
+      <HintPath>..\WebArcServer\bin\Debug\FtdAdapter.dll</HintPath>
+    </Reference>
+    <Reference Include="Modbus, Version=1.11.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Modbus.dll</HintPath>
+    </Reference>
+    <Reference Include="Modbus.Extensions">
+      <HintPath>..\WebArcServer\bin\Debug\Modbus.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Unme.Common">
+      <HintPath>..\WebArcServer\bin\Debug\Unme.Common.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Data\Base\Coil.cs" />
+    <Compile Include="Data\Base\Register.cs" />
+    <Compile Include="Data\HoldingRegister.cs" />
+    <Compile Include="Data\InternalRegister.cs" />
+    <Compile Include="Data\OutputCoil.cs" />
+    <Compile Include="Data\InputCoil.cs" />
+    <Compile Include="MGroup.cs" />
+    <Compile Include="Data\Base\ModbusData.cs" />
+    <Compile Include="ModbusETH.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Session\Base\CoilSession.cs" />
+    <Compile Include="Session\Base\RegisterSession.cs" />
+    <Compile Include="Session\Base\Session.cs" />
+    <Compile Include="Session\OutputCoilSession.cs" />
+    <Compile Include="Session\InputCoilSession.cs" />
+    <Compile Include="Session\InternalRegisterSession.cs" />
+    <Compile Include="Session\HoldingRegisterSession.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Chip\Chip.csproj">
+      <Project>{392c63eb-cf7e-4bfc-85c1-bb91750f9323}</Project>
+      <Name>Chip</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\RTDB\RTDB\RTDB.csproj">
+      <Project>{6604470b-31ac-480a-8ac5-a52a1ee76da0}</Project>
+      <Name>RTDB</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\RTDB\DataQuality\DataQuality.csproj">
+      <Project>{6ab71305-3554-404f-a62b-465c561db44c}</Project>
+      <Name>DataQuality</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Driver\Driver.csproj">
+      <Project>{8675c7c5-4bbc-457a-90ab-3410d18bf791}</Project>
+      <Name>Driver</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Expression\Expression.csproj">
+      <Project>{708858b0-1c7c-447c-ae33-375b1549975a}</Project>
+      <Name>Expression</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\GlobalBase\Global.csproj">
+      <Project>{724744de-ef00-437d-839b-20cdc7355fe6}</Project>
+      <Name>Global</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Lib\Lib.csproj">
+      <Project>{85b232d0-2cb4-46a4-8fe4-7194eba66930}</Project>
+      <Name>Lib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Log\Log.csproj">
+      <Project>{041c15cc-a686-470b-8061-32d8b67e46fd}</Project>
+      <Name>Log</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

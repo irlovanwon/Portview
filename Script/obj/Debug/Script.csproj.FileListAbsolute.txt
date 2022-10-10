@@ -1,0 +1,14 @@
+E:\WebArchitecture\Script\bin\Debug\Script.dll
+E:\WebArchitecture\Script\bin\Debug\Script.pdb
+E:\WebArchitecture\Script\bin\Debug\Global.dll
+E:\WebArchitecture\Script\bin\Debug\log4net.dll
+E:\WebArchitecture\Script\bin\Debug\SuperSocket.SocketBase.dll
+E:\WebArchitecture\Script\bin\Debug\SuperWebSocket.dll
+E:\WebArchitecture\Script\bin\Debug\SuperSocket.SocketEngine.dll
+E:\WebArchitecture\Script\bin\Debug\SuperSocket.Common.dll
+E:\WebArchitecture\Script\bin\Debug\Global.pdb
+E:\WebArchitecture\Script\bin\Debug\en\Global.resources.dll
+E:\WebArchitecture\Script\bin\Debug\zh-CHS\Global.resources.dll
+E:\WebArchitecture\Script\obj\Debug\Script.csprojResolveAssemblyReference.cache
+E:\WebArchitecture\Script\obj\Debug\Script.dll
+E:\WebArchitecture\Script\obj\Debug\Script.pdb

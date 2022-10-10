@@ -1,0 +1,27 @@
+11/7/2016 12:05:40 AM
+Can't find resource for recorder
+11/7/2016 12:05:42 AM
+ScriptError:System.ArgumentNullException: Value cannot be null.
+Parameter name: type
+   at System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   at System.Activator.CreateInstance(Type type, Object[] args)
+   at Irlovan.Script.DotNetFrameworkScript.RunScripts(String[] scripts)
+
+11/7/2016 12:08:45 AM
+Can't find resource for recorder
+11/7/2016 12:08:45 AM
+ScriptError:System.ArgumentNullException: Value cannot be null.
+Parameter name: type
+   at System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   at System.Activator.CreateInstance(Type type, Object[] args)
+   at Irlovan.Script.DotNetFrameworkScript.RunScripts(String[] scripts)
+
+11/7/2016 12:09:59 AM
+Can't find resource for recorder
+11/7/2016 12:09:59 AM
+ScriptError:System.ArgumentNullException: Value cannot be null.
+Parameter name: type
+   at System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   at System.Activator.CreateInstance(Type type, Object[] args)
+   at Irlovan.Script.DotNetFrameworkScript.RunScripts(String[] scripts)
+

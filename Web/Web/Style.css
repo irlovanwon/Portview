@@ -1,0 +1,564 @@
+/********************************      Basic Structure      ********************************/
+
+html {
+    font-size: 100%;
+    height: 100%;
+    margin-bottom: 1px; /* Always show a scrollbar to avoid jumping when the scrollbar appears  */
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font: 100% Arial, Sans-Serif;
+    color: #555;
+    line-height: 1.4em;
+}
+
+#body-wrapper {
+    border: #909090 1px solid;
+    background: #fff;
+    color: #505050;
+    margin: auto;
+    height: auto;
+    width: 1004px;
+    box-shadow: 2px 2px 10px #909090;
+}
+
+#header {
+    color: #FFF;
+    line-height: 1.0em;
+    overflow: hidden;
+    height: 129px;
+}
+
+    #header .rside {
+        background: #125E81;
+        color: #337493;
+        float: right;
+        height: 129px;
+        width: 587px;
+        font-size: 90%;
+    }
+
+    #header .citation {
+        text-align: right;
+        padding: 60px 25px 25px 6px;
+        color: #f0f0f0;
+    }
+
+    #header .mside {
+        background: #125E81;
+        color: #337493;
+        height: 129px;
+        padding: 0;
+        margin: 0;
+    }
+
+    #header .lside {
+        background: #FFB424;
+        color: #FFF;
+        height: 129px;
+        width: 174px;
+        padding: 0;
+        margin: 0;
+        float: left;
+        text-align: center;
+    }
+
+.logo {
+    padding-top: 20px;
+}
+
+#header h3 {
+    background-color: inherit;
+    color: #FFF;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+
+#header .title {
+    text-align: center;
+    padding-top: 30px;
+}
+
+#main {
+    display: block;
+    padding: 0px 10px 0 10px;
+    background: #fff;
+    padding: 0;
+    overflow: hidden;
+    width: 100%;
+}
+/* ********************************       Footer Style      ********************************  */
+#footer {
+    display: block;
+    background: #FFF;
+    color: #a0a0a0;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    font-size: 100%;
+    padding: 0px;
+    margin: 0;
+}
+
+    #footer hr {
+        width: 740px;
+        color: #888;
+        border: 1px solid #f0f0f0;
+        margin: 0 25px 0 25px;
+    }
+
+    #footer a {
+        color: #999;
+        background: #FFF;
+        text-decoration: none;
+    }
+
+        #footer a:hover {
+            background: #FFF;
+            text-decoration: underline;
+            color: #444;
+        }
+
+.leftmenu {
+    width: 174px;
+    padding: 0;
+    margin: 0;
+    background: -moz-linear-gradient(top, #cfe1eb, #ffffff);
+    float: left;
+    min-height: 450px;
+    display: inline;
+}
+/*********************************      Left Navigation      *********************************/
+.nav {
+    clear: both;
+    text-align: left;
+    color: #7D8085;
+    padding: 30px 0 0 0;
+    width: 174px;
+    min-height: 420px;
+    background: -moz-linear-gradient(top, #cfe1eb, #ffffff);
+}
+
+ul#sliding-navigation {
+    list-style: none;
+    font-size: .90em;
+    margin: 10px 0;
+    padding: 0;
+}
+
+    ul#sliding-navigation li {
+        font-weight: bold;
+        margin: 0 0 5px 0;
+        padding: 0 0 0 5px;
+        border-bottom: 1px solid #ccc;
+    }
+
+        ul#sliding-navigation li.sliding-element a {
+            display: block;
+            width: 150px;
+            padding: 5px 18px;
+            margin: 0;
+            margin-bottom: 7px;
+        }
+
+        ul#sliding-navigation li.sliding-element a {
+            color: #546078;
+            font-weight: bold;
+            text-decoration: none;
+        }
+
+            ul#sliding-navigation li.sliding-element a:hover {
+                color: #F29900;
+            }
+/********************************      Elements styls      ********************************/
+
+a {
+    color: #57a000;
+    text-decoration: none;
+}
+
+    a:hover {
+        color: #000;
+    }
+
+    a:active {
+        color: #777;
+    }
+
+    a:focus {
+        outline: 1px;
+    }
+
+/********************************      Main Content      ********************************/
+
+#main-content {
+    margin: 0 20px 0 194px;
+    padding: 20px 0 0 0;
+}
+
+.column-left {
+    width: 62%;
+    float: left;
+}
+
+.column-right {
+    width: 35%;
+    float: right;
+}
+
+.clear {
+    clear: both;
+}
+
+/************************** Content Box **************************/
+
+.content-box {
+    border: 1px solid #ccc;
+    margin: 0 0 20px 0;
+    background: #fff;
+}
+
+.content-box-header {
+    background: #e5e5e5 url('../Images/bg-content-box.gif') top left repeat-x;
+    margin-top: 1px;
+    height: 40px;
+}
+
+    .content-box-header h3 {
+        margin: 5px;
+        padding: 5px;
+        border: 0;
+        outline: 0;
+        font-weight: bold;
+        font-style: inherit;
+        font-size: 100%;
+        font-family: inherit;
+        vertical-align: baseline;
+        float: left;
+    }
+
+    .content-box-header ul {
+        list-style: none;
+    }
+
+.content-box-content {
+    padding: 20px;
+    font-size: 13px;
+    border-top: 1px solid #ccc;
+    display: block;
+}
+
+/*********************************      For Area Bolck      *********************************/
+#AreaCanvas {
+    height: 420px;
+    width: 700px;
+    position: relative;
+    margin: 20px;
+    padding: 15px;
+    overflow: auto;
+}
+
+.Block {
+    position: absolute;
+    border: 1px solid #ccc;
+}
+
+#AreaCanvas .Block:hover {
+    border: 1px solid #CCCCCC;
+    background-color: #f0d167;
+}
+
+.BlockFocus {
+    width: 150px;
+    height: 170px;
+    border-radius: 13px;
+    box-shadow: 0px 0px 0px #fff, 0px 0px 0px #fff, 5px 5px 10px #909090, 5px 5px 10px #909090;
+    background: url(../Images/note.png) no-repeat #cfe1eb;
+}
+
+/**********************************       Datepicker style      **********************************/
+#ui-datepicker-div, .ui-datepicker {
+    font-size: 80%;
+}
+
+/* -----------------------------------for Gantry----------------------------------------*/
+#BlockCanvas {
+    min-width: 700px;
+    min-height: 350px;
+    margin: 5px;
+    padding: 0px;
+    position: relative;
+    overflow: auto;
+}
+
+.Stack {
+    float: left;
+    position: absolute;
+    width: 80px;
+    height: 40px;
+    border: 1px solid #cfe1eb;
+    border-radius: 3px;
+    box-shadow: 2px 2px 5px #ccc;
+}
+
+#BlockCanvas .Stack:hover {
+    border: 1px solid #CCCCCC;
+    background-color: #fffac2;
+    box-shadow: 2px 2px 5px #909090;
+}
+
+.StackFocus {
+    width: 150px;
+    height: 170px;
+    border-radius: 13px;
+    box-shadow: 0px 0px 0px #fff, 0px 0px 0px #fff, 5px 5px 10px #909090, 5px 5px 10px #909090;
+    background: url(../Images/note.png) no-repeat #cfe1eb;
+}
+
+/*-----------------------------------------------information style---------------------------------------------*/
+.infor {
+    width: 400px;
+    padding-left: 60px;
+}
+
+    .infor li {
+        width: 300px;
+    }
+
+    .infor label {
+        clear: both;
+        display: block;
+        font-size: 15px;
+        color: #444;
+        margin-bottom: 3px;
+    }
+
+    .infor .text {
+        width: 250px;
+        border: 1px solid #d3d3d3;
+        background: #fff;
+        font-size: 15px;
+        color: #000;
+        text-indent: 5px;
+        padding: 5px;
+        margin-bottom: 10px;
+    }
+
+/**********************************      table information      **********************************/
+.tableinfor {
+    overflow: hidden;
+    padding-bottom: 10px;
+    height: 288px;
+}
+
+    .tableinfor label {
+        font-size: 15px;
+        color: #444;
+        margin-bottom: 3px;
+        clear: both;
+        display: block;
+    }
+
+    .tableinfor .textinput {
+        width: 120px;
+        border: 1px solid #d3d3d3;
+        background: #fff;
+        font-size: 13px;
+        color: #000;
+        text-indent: 4px;
+        padding: 4px 4px 4px 0;
+        margin-bottom: 10px;
+    }
+
+.textinput {
+    border: 1px solid #d3d3d3;
+    background: #fff;
+    font-size: 13px;
+    color: #000;
+    text-indent: 4px;
+    padding: 4px 4px 4px 0;
+    margin-bottom: 10px;
+}
+
+.line {
+    border-bottom: 1px solid #ccc;
+}
+
+/**********************************      history table style  **********************************/
+
+#TableCanvas {
+    padding-top: 10px;
+    min-width: 700px;
+    min-height: 350px;
+    overflow: auto;
+}
+
+    #TableCanvas table {
+        font: 100% Arial, Sans-Serif;
+        border-collapse: collapse;
+    }
+
+    #TableCanvas th {
+        font-weight: bold;
+        background-color: #D1DCEF;
+        text-align: center;
+        border: 1px solid #E9E9FF;
+        height: 40px;
+    }
+
+    #TableCanvas .alt-row {
+        text-align: center;
+        background-color: #F7F7FF;
+        height: 30px;
+    }
+
+    #TableCanvas td {
+        border: 1px solid #E9E9FF;
+        text-align: left;
+        background-color: white;
+        height: 30px;
+        width: 150px;
+    }
+
+/*********************************** PLC Crane Canvase style ***********************************/
+#CraneCanvas {
+    width: 100%;
+    min-height: 500px;
+    margin: auto;
+    background: url(../Images/crane.png) no-repeat center;
+}
+
+.AnimationContent {
+    width: 610px;
+    margin: auto;
+    position: relative;
+}
+
+.TrolleyAnimation {
+    width: 145px;
+    height: 47px;
+    position: absolute;
+    left: 45px;
+    background: url(../Images/trolley.png) no-repeat left;
+}
+
+.LineAnimation {
+    width: 55px;
+    height: 115px;
+    left: 85px;
+    top: 112px;
+    position: absolute;
+    border-left: #000000 solid 1px;
+    border-right: #000000 solid 1px;
+}
+
+.SpreaderAnimation {
+    width: 76px;
+    height: 60px;
+    left: 75px;
+    top: 220px;
+    position: absolute;
+    background: url(../Images/Spreader.png) no-repeat left;
+}
+
+.ContainerAnimation {
+    width: 76px;
+    height: 54px;
+    left: 75px;
+    top: 250px;
+    position: absolute;
+    background: url(../Images/Container.png) no-repeat left;
+}
+
+ul.status {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-size: 15px;
+}
+
+    ul.status li {
+        float: left;
+        width: 240px;
+        height: 60px;
+        text-align: center;
+        vertical-align: middle;
+    }
+
+.button {
+    width: 120px;
+}
+
+.statustext {
+    float: left;
+    padding-left: 10px;
+}
+
+.true {
+    width: 25px;
+    height: 25px;
+    background: #7fff00;
+    float: left;
+}
+
+.false {
+    width: 25px;
+    height: 25px;
+    background: #D3D3D3;
+    float: left;
+}
+
+.invalid {
+    width: 25px;
+    height: 25px;
+    background: #000;
+    float: left;
+}
+
+#Pager {
+    margin: 20px;
+    padding: 4px;
+    border: #999 solid 1px;
+}
+
+.PagerView {
+    color: #333;
+    text-align: center;
+    margin: 8px;
+}
+
+    .PagerView span {
+        color: #999;
+        margin: 0 1px;
+        padding: 3px 6px;
+        border: 1px solid #ccc;
+    }
+
+        .PagerView span.on {
+            color: #333;
+            font-weight: bold;
+            border: 1px solid #333;
+        }
+
+    .PagerView a {
+        color: #00f;
+        text-decoration: none;
+    }
+
+        .PagerView a span {
+            border: 1px solid #66c;
+            color: #33f;
+        }
+
+        .PagerView a:hover span {
+            color: #f00;
+            background: #ff9;
+        }
+
+ul.plcinfor {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}

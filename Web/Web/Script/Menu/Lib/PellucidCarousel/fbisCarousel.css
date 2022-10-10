@@ -1,0 +1,27 @@
+div.fbisCarousel {
+	width: 440px; height: 150px; overflow: hidden; clear: both; float: left; display: block; position: relative;
+}
+div.fbisCarousel ul {
+	list-style: none; margin: 0px; padding: 0px; width: 2000px; float: left; position: relative;
+}
+div.fbisCarousel ul li {
+	margin: 0px; padding: 10px; border: 1px solid rgb(238, 238, 238); overflow: hidden; float: left; display: block;
+}
+div.fbisCarousel ul li div {
+	background: url("../images/slidey.png") no-repeat right top;
+}
+div.fbisCarousel .arrows {
+	width: 400px; float: left;
+}
+div.fbisCarousel .arrows a {
+	padding: 4px 0px; width: 30px; height: 30px; display: block;
+}
+div.fbisCarousel .arrows a span {
+	display: none;
+}
+div.fbisCarousel .arrows a.slideleft {
+	background: url("images/fbisCarouselArrows.png") no-repeat left; float: left;
+}
+div.fbisCarousel .arrows a.slideright {
+	background: url("images/fbisCarouselArrows.png") no-repeat right; float: right;
+}

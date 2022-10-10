@@ -1,0 +1,162 @@
+C:\WebArchitecture\Register\bin\Debug\Register.dll
+C:\WebArchitecture\Register\bin\Debug\Register.pdb
+C:\WebArchitecture\Register\bin\Debug\GlobalBase.dll
+C:\WebArchitecture\Register\bin\Debug\Helper.dll
+C:\WebArchitecture\Register\bin\Debug\Log.dll
+C:\WebArchitecture\Register\bin\Debug\Control.dll
+C:\WebArchitecture\Register\bin\Debug\log4net.dll
+C:\WebArchitecture\Register\bin\Debug\GlobalBase.pdb
+C:\WebArchitecture\Register\bin\Debug\Helper.pdb
+C:\WebArchitecture\Register\bin\Debug\Log.pdb
+C:\WebArchitecture\Register\bin\Debug\Control.pdb
+C:\WebArchitecture\Register\bin\Debug\en\GlobalBase.resources.dll
+C:\WebArchitecture\Register\bin\Debug\zh-CHS\GlobalBase.resources.dll
+C:\WebArchitecture\Register\obj\Debug\Register.csprojResolveAssemblyReference.cache
+C:\WebArchitecture\Register\obj\Debug\Register.dll
+C:\WebArchitecture\Register\obj\Debug\Register.pdb
+C:\Irlovan\MySoftware\WebArchitecture\Register\bin\Debug\Register.dll
+C:\Irlovan\MySoftware\WebArchitecture\Register\bin\Debug\Register.pdb
+C:\Irlovan\MySoftware\WebArchitecture\Register\bin\Debug\GlobalBase.dll
+C:\Irlovan\MySoftware\WebArchitecture\Register\bin\Debug\Helper.dll
+C:\Irlovan\MySoftware\WebArchitecture\Register\bin\Debug\Log.dll
+C:\Irlovan\MySoftware\WebArchitecture\Register\bin\Debug\Control.dll
+C:\Irlovan\MySoftware\WebArchitecture\Register\bin\Debug\log4net.dll
+C:\Irlovan\MySoftware\WebArchitecture\Register\bin\Debug\GlobalBase.pdb
+C:\Irlovan\MySoftware\WebArchitecture\Register\bin\Debug\Helper.pdb
+C:\Irlovan\MySoftware\WebArchitecture\Register\bin\Debug\Log.pdb
+C:\Irlovan\MySoftware\WebArchitecture\Register\bin\Debug\Control.pdb
+C:\Irlovan\MySoftware\WebArchitecture\Register\bin\Debug\en\GlobalBase.resources.dll
+C:\Irlovan\MySoftware\WebArchitecture\Register\bin\Debug\zh-CHS\GlobalBase.resources.dll
+C:\Irlovan\MySoftware\WebArchitecture\Register\obj\Debug\Register.csprojResolveAssemblyReference.cache
+C:\Irlovan\MySoftware\WebArchitecture\Register\obj\Debug\Register.dll
+C:\Irlovan\MySoftware\WebArchitecture\Register\obj\Debug\Register.pdb
+C:\Irlovan\Wine\WebArchitecture\Register\bin\Debug\Register.dll
+C:\Irlovan\Wine\WebArchitecture\Register\bin\Debug\Register.pdb
+C:\Irlovan\Wine\WebArchitecture\Register\bin\Debug\GlobalBase.dll
+C:\Irlovan\Wine\WebArchitecture\Register\bin\Debug\Helper.dll
+C:\Irlovan\Wine\WebArchitecture\Register\bin\Debug\Log.dll
+C:\Irlovan\Wine\WebArchitecture\Register\bin\Debug\Control.dll
+C:\Irlovan\Wine\WebArchitecture\Register\bin\Debug\log4net.dll
+C:\Irlovan\Wine\WebArchitecture\Register\bin\Debug\GlobalBase.pdb
+C:\Irlovan\Wine\WebArchitecture\Register\bin\Debug\Helper.pdb
+C:\Irlovan\Wine\WebArchitecture\Register\bin\Debug\Log.pdb
+C:\Irlovan\Wine\WebArchitecture\Register\bin\Debug\Control.pdb
+C:\Irlovan\Wine\WebArchitecture\Register\bin\Debug\en\GlobalBase.resources.dll
+C:\Irlovan\Wine\WebArchitecture\Register\bin\Debug\zh-CHS\GlobalBase.resources.dll
+C:\Irlovan\Wine\WebArchitecture\Register\obj\Debug\Register.csprojResolveAssemblyReference.cache
+C:\Irlovan\Wine\WebArchitecture\Register\obj\Debug\Register.dll
+C:\Irlovan\Wine\WebArchitecture\Register\obj\Debug\Register.pdb
+D:\Irlovan\Wine\WebArchitecture\Register\bin\Debug\Register.dll
+D:\Irlovan\Wine\WebArchitecture\Register\bin\Debug\Register.pdb
+D:\Irlovan\Wine\WebArchitecture\Register\bin\Debug\Log.dll
+D:\Irlovan\Wine\WebArchitecture\Register\bin\Debug\Control.dll
+D:\Irlovan\Wine\WebArchitecture\Register\bin\Debug\Log.pdb
+D:\Irlovan\Wine\WebArchitecture\Register\bin\Debug\Control.pdb
+D:\Irlovan\Wine\WebArchitecture\Register\obj\Debug\Register.csprojResolveAssemblyReference.cache
+D:\Irlovan\Wine\WebArchitecture\Register\obj\Debug\Register.dll
+D:\Irlovan\Wine\WebArchitecture\Register\obj\Debug\Register.pdb
+D:\Irlovan\Wine\WebArchitecture\Register\bin\Debug\Global.dll
+D:\Irlovan\Wine\WebArchitecture\Register\bin\Debug\Lib.dll
+D:\Irlovan\Wine\WebArchitecture\Register\bin\Debug\DateContainer.dll
+D:\Irlovan\Wine\WebArchitecture\Register\bin\Debug\Global.pdb
+D:\Irlovan\Wine\WebArchitecture\Register\bin\Debug\Lib.pdb
+D:\Irlovan\Wine\WebArchitecture\Register\bin\Debug\DateContainer.pdb
+D:\Irlovan\Wine\WebArchitecture\Register\bin\Debug\en\Global.resources.dll
+D:\Irlovan\Wine\WebArchitecture\Register\bin\Debug\zh-CHS\Global.resources.dll
+D:\Irlovan\Wine\WebArchitecture\Register\bin\Debug\en\Lib.resources.dll
+D:\Irlovan\Wine\WebArchitecture\Register\bin\Debug\zh-CHS\Lib.resources.dll
+D:\Irlovan\GIT\WebArc\Register\bin\Debug\Register.dll
+D:\Irlovan\GIT\WebArc\Register\bin\Debug\Register.pdb
+D:\Irlovan\GIT\WebArc\Register\bin\Debug\Global.dll
+D:\Irlovan\GIT\WebArc\Register\bin\Debug\Lib.dll
+D:\Irlovan\GIT\WebArc\Register\bin\Debug\Log.dll
+D:\Irlovan\GIT\WebArc\Register\bin\Debug\Control.dll
+D:\Irlovan\GIT\WebArc\Register\bin\Debug\DateContainer.dll
+D:\Irlovan\GIT\WebArc\Register\bin\Debug\Global.pdb
+D:\Irlovan\GIT\WebArc\Register\bin\Debug\Lib.pdb
+D:\Irlovan\GIT\WebArc\Register\bin\Debug\Log.pdb
+D:\Irlovan\GIT\WebArc\Register\bin\Debug\Control.pdb
+D:\Irlovan\GIT\WebArc\Register\bin\Debug\DateContainer.pdb
+D:\Irlovan\GIT\WebArc\Register\bin\Debug\en\Global.resources.dll
+D:\Irlovan\GIT\WebArc\Register\bin\Debug\zh-CHS\Global.resources.dll
+D:\Irlovan\GIT\WebArc\Register\bin\Debug\en\Lib.resources.dll
+D:\Irlovan\GIT\WebArc\Register\bin\Debug\zh-CHS\Lib.resources.dll
+D:\Irlovan\GIT\WebArc\Register\obj\Debug\Register.csprojResolveAssemblyReference.cache
+D:\Irlovan\GIT\WebArc\Register\obj\Debug\Register.dll
+D:\Irlovan\GIT\WebArc\Register\obj\Debug\Register.pdb
+D:\Irlovan Cloud\GIT\WebArc\Register\bin\Debug\Register.dll
+D:\Irlovan Cloud\GIT\WebArc\Register\bin\Debug\Register.pdb
+D:\Irlovan Cloud\GIT\WebArc\Register\bin\Debug\Global.dll
+D:\Irlovan Cloud\GIT\WebArc\Register\bin\Debug\Lib.dll
+D:\Irlovan Cloud\GIT\WebArc\Register\bin\Debug\Log.dll
+D:\Irlovan Cloud\GIT\WebArc\Register\bin\Debug\Control.dll
+D:\Irlovan Cloud\GIT\WebArc\Register\bin\Debug\DateContainer.dll
+D:\Irlovan Cloud\GIT\WebArc\Register\bin\Debug\Global.pdb
+D:\Irlovan Cloud\GIT\WebArc\Register\bin\Debug\Lib.pdb
+D:\Irlovan Cloud\GIT\WebArc\Register\bin\Debug\Log.pdb
+D:\Irlovan Cloud\GIT\WebArc\Register\bin\Debug\Control.pdb
+D:\Irlovan Cloud\GIT\WebArc\Register\bin\Debug\DateContainer.pdb
+D:\Irlovan Cloud\GIT\WebArc\Register\bin\Debug\en\Global.resources.dll
+D:\Irlovan Cloud\GIT\WebArc\Register\bin\Debug\zh-CHS\Global.resources.dll
+D:\Irlovan Cloud\GIT\WebArc\Register\bin\Debug\en\Lib.resources.dll
+D:\Irlovan Cloud\GIT\WebArc\Register\bin\Debug\zh-CHS\Lib.resources.dll
+D:\Irlovan Cloud\GIT\WebArc\Register\obj\Debug\Register.csprojResolveAssemblyReference.cache
+D:\Irlovan Cloud\GIT\WebArc\Register\obj\Debug\Register.dll
+D:\Irlovan Cloud\GIT\WebArc\Register\obj\Debug\Register.pdb
+D:\Irlovan\GIT\WebArc\WebArc\Register\bin\Debug\Register.dll
+D:\Irlovan\GIT\WebArc\WebArc\Register\bin\Debug\Register.pdb
+D:\Irlovan\GIT\WebArc\WebArc\Register\bin\Debug\Global.dll
+D:\Irlovan\GIT\WebArc\WebArc\Register\bin\Debug\Lib.dll
+D:\Irlovan\GIT\WebArc\WebArc\Register\bin\Debug\Log.dll
+D:\Irlovan\GIT\WebArc\WebArc\Register\bin\Debug\Control.dll
+D:\Irlovan\GIT\WebArc\WebArc\Register\bin\Debug\DateContainer.dll
+D:\Irlovan\GIT\WebArc\WebArc\Register\bin\Debug\Global.pdb
+D:\Irlovan\GIT\WebArc\WebArc\Register\bin\Debug\Lib.pdb
+D:\Irlovan\GIT\WebArc\WebArc\Register\bin\Debug\Log.pdb
+D:\Irlovan\GIT\WebArc\WebArc\Register\bin\Debug\Control.pdb
+D:\Irlovan\GIT\WebArc\WebArc\Register\bin\Debug\DateContainer.pdb
+D:\Irlovan\GIT\WebArc\WebArc\Register\bin\Debug\en\Global.resources.dll
+D:\Irlovan\GIT\WebArc\WebArc\Register\bin\Debug\zh-CHS\Global.resources.dll
+D:\Irlovan\GIT\WebArc\WebArc\Register\bin\Debug\en\Lib.resources.dll
+D:\Irlovan\GIT\WebArc\WebArc\Register\bin\Debug\zh-CHS\Lib.resources.dll
+D:\Irlovan\GIT\WebArc\WebArc\Register\obj\Debug\Register.csprojResolveAssemblyReference.cache
+D:\Irlovan\GIT\WebArc\WebArc\Register\obj\Debug\Register.dll
+D:\Irlovan\GIT\WebArc\WebArc\Register\obj\Debug\Register.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\Register\bin\Debug\Register.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\Register\bin\Debug\Register.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\Register\bin\Debug\Global.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\Register\bin\Debug\Lib.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\Register\bin\Debug\Log.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\Register\bin\Debug\Control.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\Register\bin\Debug\DateContainer.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\Register\bin\Debug\Global.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\Register\bin\Debug\Lib.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\Register\bin\Debug\Log.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\Register\bin\Debug\Control.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\Register\bin\Debug\DateContainer.pdb
+C:\Users\irlovan\Irlovan\Develop\WebArc\Register\bin\Debug\en\Global.resources.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\Register\bin\Debug\zh-CHS\Global.resources.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\Register\bin\Debug\en\Lib.resources.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\Register\bin\Debug\zh-CHS\Lib.resources.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\Register\obj\Debug\Register.csprojResolveAssemblyReference.cache
+C:\Users\irlovan\Irlovan\Develop\WebArc\Register\obj\Debug\Register.dll
+C:\Users\irlovan\Irlovan\Develop\WebArc\Register\obj\Debug\Register.pdb
+C:\Users\irlovan\Desktop\Portview_Source\Register\bin\Debug\Register.dll
+C:\Users\irlovan\Desktop\Portview_Source\Register\bin\Debug\Register.pdb
+C:\Users\irlovan\Desktop\Portview_Source\Register\bin\Debug\Global.dll
+C:\Users\irlovan\Desktop\Portview_Source\Register\bin\Debug\Lib.dll
+C:\Users\irlovan\Desktop\Portview_Source\Register\bin\Debug\Log.dll
+C:\Users\irlovan\Desktop\Portview_Source\Register\bin\Debug\Control.dll
+C:\Users\irlovan\Desktop\Portview_Source\Register\bin\Debug\DateContainer.dll
+C:\Users\irlovan\Desktop\Portview_Source\Register\bin\Debug\Global.pdb
+C:\Users\irlovan\Desktop\Portview_Source\Register\bin\Debug\Lib.pdb
+C:\Users\irlovan\Desktop\Portview_Source\Register\bin\Debug\Log.pdb
+C:\Users\irlovan\Desktop\Portview_Source\Register\bin\Debug\Control.pdb
+C:\Users\irlovan\Desktop\Portview_Source\Register\bin\Debug\DateContainer.pdb
+C:\Users\irlovan\Desktop\Portview_Source\Register\bin\Debug\en\Global.resources.dll
+C:\Users\irlovan\Desktop\Portview_Source\Register\bin\Debug\zh-CHS\Global.resources.dll
+C:\Users\irlovan\Desktop\Portview_Source\Register\bin\Debug\en\Lib.resources.dll
+C:\Users\irlovan\Desktop\Portview_Source\Register\bin\Debug\zh-CHS\Lib.resources.dll
+C:\Users\irlovan\Desktop\Portview_Source\Register\obj\Debug\Register.csprojResolveAssemblyReference.cache
+C:\Users\irlovan\Desktop\Portview_Source\Register\obj\Debug\Register.dll
+C:\Users\irlovan\Desktop\Portview_Source\Register\obj\Debug\Register.pdb

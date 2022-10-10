@@ -1,0 +1,25 @@
+<Catalog Name="Demo">
+
+
+<Catalog Name="Boolean">
+
+<IndustryData Name="B1" DataType="System.Boolean" Description="" />
+<IndustryData Name="B2" DataType="System.Boolean" Description="" />
+
+</Catalog>
+
+<Catalog Name="Analog">
+
+<IndustryData Name="A1" DataType="System.Int32" Description="" />
+<IndustryData Name="A2" DataType="System.Double" Description="" />
+
+</Catalog>
+
+<Catalog Name="Alarm">
+
+<EventData Name="Fault1" DataType="System.Boolean" Indication="Fault1" Description="Fault1 is a demo fault" EventLevel="FLT" />
+<EventData Name="Fault2" DataType="System.Boolean" Indication="Fault2" Description="Fault2 is a demo fault" EventLevel="FLT" />
+
+</Catalog>
+
+</Catalog>
